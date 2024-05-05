@@ -1,5 +1,7 @@
 ## Asthma Disparities in New York City
 
+This project was the capstone of the Correlation One Data Science for All program.
+The purpose of this project was to analyze New York City data on asthma contributors and Social Determinants of Health to uncover what potentially drives asthma disparity in this city. Although there are a wide variety of potential asthma contributors, for this project focused on indoor and outdoor air quality because they are widely believed to be the main contributors. 
 
 
 ![Team45_projectBoard](https://github.com/Hevander27/Correlation-One/assets/45948489/f3a0638b-edc8-41c6-914c-b7658fb140c5)
