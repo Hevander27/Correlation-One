@@ -42,6 +42,7 @@ Dataset:airq\_42\_all
 Contains data about the average amounts of toxins: ?ine particulate matter, nitrogen
 dioxide, and ozone. The data is categorized by UHF42 neighborhood for years 2009 to
 2018. There are 420 rows and 6 columns.
+
 https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
 
 
@@ -55,8 +56,12 @@ https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
 |**mean\_fpm**|Float|Average yearly amount of fine particulate matter|
 |**mean\_no**|Float|Average yearly amount of nitrogen dioxide|
 |**Ozone mean (ppb)**|Float|Average yearly amount of ozone|
-||||
-Dataset:benzene\_42 Contains data about the average concentration of benzene in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.There are 84 rows and 3 columns. https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
+
+Dataset:benzene\_42
+
+Contains data about the average concentration of benzene in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.There are 84 rows and 3 columns. 
+
+https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 
 
