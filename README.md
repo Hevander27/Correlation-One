@@ -327,7 +327,13 @@ Source: https://data.cityofnewyork.us/Health/DOHMH-Indoor-Environmental-Complain
 |Longitude|FLOAT|Longitude of complaint location|
 |Latitude |FLOAT|Latitude of complaint location|
 
-**Dataset: Adultswith Asthma in the Past 12 Months.csv** Description:Prevelanceofadultswithasthmainthepast12months.ListedbyNYCUHF Neighborhoodsandyear.Iremovedmetadata,removedcommas,changedcolumnnames, madeeverythinglowercase,andchangedthedatatypestotheappropriatedatatypesfor eachcolumn.
+**Dataset: Adultswith Asthma in the Past 12 Months.csv** 
+
+Description: Prevelance of adults with asthma in the past 12 months. Listed by NYC UHF
+Neighborhoods and year. I removed metadata, removed commas, changed column names,
+made everything lowercase, and changed the datatypes to the appropriate datatypes for
+each column.
+
 
 Rows:521
 
@@ -350,7 +356,14 @@ Source:NYCEnvironment&HealthDataPortal [https://a816dohbesp.nyc.gov/IndicatorPub
 |**adults\_12mo\_asthma\_nu mber** |float|Number of adults with asthma|
 |**adults\_12mo\_asthma\_pe rcent** |float|Percentage of adults with asthma|
 
-**Dataset: Public School Children (5-14 YrsOld) with Asthma.csv** Description:Prevelanceofpublicschoolchildrenfromages5-14withasthma.Listedby NYCUHFNeighborhoodsandyear.Iremovedmetadata,removedcommas,changedcolumn names,madeeverythinglowercase,andchangedthedatatypestotheappropriate datatypesforeachcolumn
+**Dataset: Public School Children (5-14 YrsOld) with Asthma.csv** 
+
+
+Description: Prevelance of public school children from ages 5-14 with asthma. Listed by
+NYC UHF Neighborhoods and year. I removed metadata, removed commas, changed column
+names, made everything lowercase, and changed the datatypes to the appropriate
+datatypes for each column
+
 
 Rows:193
 
