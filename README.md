@@ -90,7 +90,10 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 Dataset:boiler\_emissions
 
-Contains data about the average boiler emissions of toxins nitrogen dioxide,sulfurdioxide and ine particulate matter.The data is categorized by UHF42 neighborhood for years 2013 and 2015.There are 84 rows and 5 columns. 
+Contains data about the average boiler emissions of toxins nitrogen dioxide,sulfurdioxide and ine particulate matter.The data is categorized by UHF42 neighborhood for years 2013 and 2015.
+
+
+There are 84 rows and 5 columns. 
 
 
 https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
@@ -106,7 +109,14 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 |**so2\_num\_per\_km2**|Float|Number of emissions per kilometer squared|
 |**pm2\_num\_per\_km2**|Float|Number of emissions per kilometer squared|
 
-Dataset:sulfur\_34 Contains data about the average amount of sulfurdioxide in the air.The data is categorized by UHF34 neighborhood for years 2008-2015.There are 272 rows and 3 columns. https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
+Dataset:sulfur\_34 Contains data about the average amount of sulfurdioxide in the air.The data is categorized by UHF34 neighborhood for years 2008-2015.
+
+
+There are 272 rows and 3 columns. 
+
+
+
+`https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu`
 
 
 
