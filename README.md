@@ -19,7 +19,7 @@ DataTableSchema Team45
 
 Dataset:airq\_34\_all
 
-Containsdataabouttheaverageamountsoftoxins: ineparticulatematter,nitrogen dioxide,andozone.ThedataiscategorizedbyUHF34neighborhoodforyears2009to 2018.Thereare330rowsand6columns. https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
+Contains data about the average amounts of toxins: ine particulate matter, nitrogen dioxide,and ozone.The data is categorized by UHF34 neighborhood for years 2009 to 2018.There are 330 rows and 6columns. https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
 
 
 
@@ -35,7 +35,7 @@ Containsdataabouttheaverageamountsoftoxins: ineparticulatematter,nitrogen dioxid
 ||||
 Dataset:airq\_42\_all
 
-Containsdataabouttheaverageamountsoftoxins: ineparticulatematter,nitrogen dioxide,andozone.ThedataiscategorizedbyUHF42neighborhoodforyears2009to 2018.Thereare420rowsand6columns. https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
+Contains data about the average amounts of toxins: in eparticulate matter,nitrogen dioxide,andozone.ThedataiscategorizedbyUHF42neighborhoodforyears2009to 2018.Thereare420rowsand6columns. https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
 
 
 
@@ -49,7 +49,7 @@ Containsdataabouttheaverageamountsoftoxins: ineparticulatematter,nitrogen dioxid
 |**mean\_no**|Float|Average yearly amount of nitrogen dioxide|
 |**Ozone mean (ppb)**|Float|Average yearly amount of ozone|
 ||||
-Dataset:benzene\_42 Containsdataabouttheaverageconcentrationofbenzeneintheair.Thedataiscategorized byUHF42neighborhoodforyears2005and2011.Thereare84rowsand3columns. https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
+Dataset:benzene\_42 Contains data about the average concentration of benzene in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.There are 84 rows and 3 columns. https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 
 
@@ -60,7 +60,7 @@ Dataset:benzene\_42 Containsdataabouttheaverageconcentrationofbenzeneintheair.Th
 |**geo\_place\_name**|STRING|UHF 34 Neighborhood name|
 |**mean\_benzene**|Float|Average yearly concentration of benzene in the air|
 
-Dataset:formaldehyde\_42 Containsdataabouttheaverageconcentrationofformaldehydeintheair.Thedatais categorizedbyUHF42neighborhoodforyears2005and2011.Thereare84rowsand3 columns.
+Dataset:formaldehyde\_42 Contains data about the average concentration of formal dehyde in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.There are 84 rows and 3 columns.
 
 https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
@@ -75,7 +75,7 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 Dataset:boiler\_emissions
 
-Containsdataabouttheaverageboileremissionsoftoxinsnitrogendioxide,sulfurdioxide and ineparticulatematter.ThedataiscategorizedbyUHF42neighborhoodforyears2013 and2015.Thereare84rowsand5columns. https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
+Contains data about the average boiler emissions of toxins nitrogen dioxide,sulfurdioxide and ine particulate matter.The data is categorized by UHF42 neighborhood for years 2013 and 2015.There are 84 rows and 5 columns. https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 
 
@@ -88,7 +88,7 @@ Containsdataabouttheaverageboileremissionsoftoxinsnitrogendioxide,sulfurdioxide 
 |**so2\_num\_per\_km2**|Float|Number of emissions per kilometer squared|
 |**pm2\_num\_per\_km2**|Float|Number of emissions per kilometer squared|
 
-Dataset:sulfur\_34 Containsdataabouttheaverageamountofsulfurdioxideintheair.Thedataiscategorized byUHF34neighborhoodforyears2008-2015.Thereare272rowsand3columns. https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
+Dataset:sulfur\_34 Contains data about the average amount of sulfurdioxide in the air.The data is categorized by UHF34 neighborhood for years 2008-2015.There are 272 rows and 3 columns. https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 
 
@@ -99,7 +99,7 @@ Dataset:sulfur\_34 Containsdataabouttheaverageamountofsulfurdioxideintheair.Thed
 |**geo\_place\_name**|STRING|UHF 34 Neighborhood name|
 |**mean\_so2**|Float|Average yearly amount of sulfur|
 
-Dataset:sulfur\_42 Containsdataabouttheaverageamountofsulfurdioxideintheair.Thedataiscategorized byUHF42neighborhoodforyears2008and2015.Thereare336rowsand3columns. https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
+Dataset:sulfur\_42 Contains data about the average amount of sulfurdioxide in the air.The data is categorized by UHF42 neighborhood for years 2008 and 2015.There are 336 rows and 3 columns. https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 
 
@@ -160,7 +160,7 @@ Thisisdatarelatedtoadultssmokingandbeinginsmokingenvironments.Additionalmetadata
 |**secondhand\_smoke\_work\_ adult\_count**|FLOAT|Count of adults reporting secondhand smoke at work|
 |secondhand\_smoke\_wor k\_adult\_percent|FLOAT|Percent of adults reporting secondhand smoke at work|
 
-Dataset:NYC\_SDOH Thesocialdeterminantsofhealth(SDH)arethenon-medicalfactorsthatin luencehealth outcomes.Theyaretheconditionsinwhichpeopleareborn,grow,work,live,andage,and thewidersetofforcesandsystemsshapingtheconditionsofdailylife. Variablesinthe SDOHdatabasecorrespondtothe5keydomainsidenti iedbyAHRQ:socialcontext,economic context,education,physicalinfrastructure,andhealthcarecontext.Inadditiontothese domains,thereisacategoryforGeography,whichincludesIDvariables(County,FIPScode, ZCTA,State,andYear)aswellas14countyadjacencyvariablesandurban/ruralcodes. Datawascleanedbasedonthevaluesavailableforthe5 ivecountiesofNewYorkCityfor 2009-2018.Counties:BrooklynCounty-TheBronx,KingsCounty-Brooklyn,NewYork County-Manhattan,QueensCounty-Queens,RichmondCounty-StatenIsland.
+Dataset:NYC\_SDOH Thesocialdeterminantsofhealth(SDH)are the non-medical factors that in luencehealth outcomes.They are the conditions in which people are born,grow,work,live,andage,and the wider set of forcesandsystemsshapingtheconditionsofdailylife. Variablesinthe SDOHdatabasecorrespondtothe5keydomainsidenti iedbyAHRQ:socialcontext,economic context,education,physicalinfrastructure,andhealthcarecontext.Inadditiontothese domains,thereisacategoryforGeography,whichincludesIDvariables(County,FIPScode, ZCTA,State,andYear)aswellas14countyadjacencyvariablesandurban/ruralcodes. Datawascleanedbasedonthevaluesavailableforthe5 ivecountiesofNewYorkCityfor 2009-2018.Counties:BrooklynCounty-TheBronx,KingsCounty-Brooklyn,NewYork County-Manhattan,QueensCounty-Queens,RichmondCounty-StatenIsland.
 
 *51 rows & 231 columns.* Size:69.7KBSource: [AgencyofHealthcareResearchandQuality](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html)
 
