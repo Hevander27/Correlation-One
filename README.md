@@ -171,8 +171,14 @@ Dataset:o3\_pm2\_attributable\_hospital\_visits
 
 
 
+Contains data about the number of emergency department visits and hospitalizations for
+asthma attributed to ?ine particulate matter and ozone toxins. The data is categorized by
+UHF 42 neighborhood. The data is categorized in the following time periods: 2005-2007,
+2009 - 2011, 2012-2014, 2015-2017. There are 168 rows and 9 columns.
 
-Containsdataaboutthenumberofemergencydepartmentvisitsandhospitalizationsfor asthmaattributedto ineparticulatematterandozonetoxins.Thedataiscategorizedby UHF42neighborhood.Thedataiscategorizedinthefollowingtimeperiods:2005-2007, 2009-2011,2012-2014,2015-2017.Thereare168rowsand9columns. https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
+
+
+https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 
 
@@ -206,7 +212,12 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 **Dataset: adult\_smoking\_joined\_UHF34\_CLEAN**
 
-Thisisdatarelatedtoadultssmokingandbeinginsmokingenvironments.Additionalmetadatawasdropped. Datawasconvertedtonumericvaluestoallowforappropriateusage. [https://a816-dohbesp.nyc.gov/ IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=3](https://a816-dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=3)
+
+This is data related to adults smoking and being in smoking environments. Additional meta data was dropped.
+Data was converted to numeric values to allow for appropriate usage.
+
+
+[https://a816-dohbesp.nyc.gov/ IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=3](https://a816-dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=3)
 
 |Field|Type |Description|
 | - | - | - |
@@ -220,7 +231,22 @@ Thisisdatarelatedtoadultssmokingandbeinginsmokingenvironments.Additionalmetadata
 |**secondhand\_smoke\_work\_ adult\_count**|FLOAT|Count of adults reporting secondhand smoke at work|
 |secondhand\_smoke\_wor k\_adult\_percent|FLOAT|Percent of adults reporting secondhand smoke at work|
 
-Dataset:NYC\_SDOH Thesocialdeterminantsofhealth(SDH)are the non-medical factors that in luencehealth outcomes.They are the conditions in which people are born,grow,work,live,andage,and the wider set of forcesandsystemsshapingtheconditionsofdailylife. Variablesinthe SDOHdatabasecorrespondtothe5keydomainsidenti iedbyAHRQ:socialcontext,economic context,education,physicalinfrastructure,andhealthcarecontext.Inadditiontothese domains,thereisacategoryforGeography,whichincludesIDvariables(County,FIPScode, ZCTA,State,andYear)aswellas14countyadjacencyvariablesandurban/ruralcodes. Datawascleanedbasedonthevaluesavailableforthe5 ivecountiesofNewYorkCityfor 2009-2018.Counties:BrooklynCounty-TheBronx,KingsCounty-Brooklyn,NewYork County-Manhattan,QueensCounty-Queens,RichmondCounty-StatenIsland.
+
+Dataset:NYC\_SDOH
+
+
+The social determinants of health (SDH) are the non-medical factors that in?luence health
+outcomes. They are the conditions in which people are born, grow, work, live, and age, and
+the wider set of forces and systems shaping the conditions of daily life. Variables in the
+SDOH database correspond to the 5 key domains identi?ied by AHRQ: social context, economic
+context, education, physical infrastructure, and healthcare context. In addition to these
+domains, there is a category for Geography, which includes ID variables (County, FIPS code,
+ZCTA, State, and Year) as well as 14 county adjacency variables and urban/rural codes.
+Data was cleaned based on the values available for the 5 ?ive counties of New York City for
+2009-2018. Counties: Brooklyn County - The Bronx, Kings County - Brooklyn, New York
+County - Manhattan, Queens County - Queens, Richmond County - Staten Island.
+
+
 
 *51 rows & 231 columns.* Size:69.7KBSource: [AgencyofHealthcareResearchandQuality](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html)
 
@@ -244,7 +270,16 @@ Detaileddescriptionofeachofthe ields.
 
 **Asthma\_ED\_Visits**
 
-AsthmaemergencyroomvisitsforNYCresidents. Datacleanedbasedon“lowestcommon denominator”orbasedontheleastdetaileddatasetwhichwastheSDOHdatasetthat containedmoregeneraldatagatheredbasedoncountyratherthanindividualUHF42 neighbourhood. TheaverageofthetotalEDvisitsfromallneighborhoodsineachcountywastakenand organizedbyyear.Theage-adjustedrate(foradultsonly,per10000residents)and estimatedannualrate(per10000residents)fromallcountieswastakenandorganizedby year.AsthmaEDVisitdatawasonlytaken/availablefortheyears2009-2016withnodata availablepercountyfortheyear2015.
+
+Asthma emergency room visits for NYC residents. Data cleaned based on “lowest common
+denominator” or based on the least detailed data set which was the SDOH data set that
+contained more general data gathered based on county rather than individual UHF 42
+neighbourhood. The average of the total ED visits from all neighborhoods in each county was taken and
+organized by year. The age-adjusted rate (for adults only, per 10000 residents) and
+estimated annual rate (per 10000 residents) from all counties was taken and organized by
+year. Asthma ED Visit data was only taken/available for the years 2009-2016 with no data
+available per county for the year 2015.
+
 
 *106 rows & 6 columns.* Size:approximatesizeasappearsonyour ileexplorer.Source: [NYC Environment&HealthDataPortal](https://a816-dohbesp.nyc.gov/IndicatorPublic/VisualizationData.aspx?id=2380,4466a0,11,Summarize)
 
@@ -259,10 +294,16 @@ AsthmaemergencyroomvisitsforNYCresidents. Datacleanedbasedon“lowestcommon deno
 |**AGE\_ADJUSTED\_RA TE**|FLOAT|Number of ED visits per country adjusted for population older than 18 years (adults), per 10,000 residents.|
 |**ESTIMATED\_ANNUA L\_RATE**|FLOAT|Number of ED visits per country adjusted for population older than 18 years, per 10,000 residents for that year.|
 
-**Dataset: Indoor\_air\_quality\_all** Datasetcontainsresidentreportedcomplaintsonindoorairquality. Complaintsaretabulatedindividuallyperreport;reportdatesrangefrom2010to2021. Theincludedcolumns:Borough,geo\_place\_name,zipcode,longitudeandlatitude,areused toidentifylocation.
+**Dataset: Indoor\_air\_quality\_all** 
+
+
+Dataset contains resident reported complaints on indoor air quality.
+Complaints are tabulated individually per report; report dates range from 2010 to 2021.
+The included columns: Borough, geo_place_name, zip code, longitude and latitude, are used
+to identify location.
+
 
 *Rows: 65050*
-
 *Columns: 7*
 
 Size:3,601KB
