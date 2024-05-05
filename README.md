@@ -18,7 +18,7 @@ in New York City](https://docs.google.com/document/d/1PZRT_0nhVFE29YuoBeKd6435zL
 
 ## Data Table Schema Team 45
 
-Dataset:airq\_34\_all
+`Dataset:airq\_34\_all`
 
 
 Contains data about the average amounts of toxins: Fine particulate matter, nitrogen
@@ -43,7 +43,7 @@ https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
 |**mean\_no**|Float|Average yearly amount of nitrogen dioxide|
 |**Ozone mean (ppb)**|Float|Average yearly amount of ozone|
 
-Dataset:airq\_42\_all
+`Dataset:airq\_42\_all`
 
 
 Contains data about the average amounts of toxins: ?ine particulate matter, nitrogen
@@ -68,7 +68,7 @@ https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
 |**mean\_no**|Float|Average yearly amount of nitrogen dioxide|
 |**Ozone mean (ppb)**|Float|Average yearly amount of ozone|
 
-Dataset:benzene\_42
+`Dataset:benzene\_42`
 
 Contains data about the average concentration of benzene in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.
 
@@ -87,7 +87,7 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 |**geo\_place\_name**|STRING|UHF 34 Neighborhood name|
 |**mean\_benzene**|Float|Average yearly concentration of benzene in the air|
 
-Dataset:formaldehyde\_42
+`Dataset:formaldehyde\_42`
 
 
 Contains data about the average concentration of formal dehyde in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.
@@ -107,7 +107,7 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 |**geo\_place\_name**|STRING|UHF 34 Neighborhood name|
 |**mean\_formaldehyde**|Float|Average yearly concentration of benzene in the air|
 
-Dataset:boiler\_emissions
+`Dataset:boiler\_emissions`
 
 Contains data about the average boiler emissions of toxins nitrogen dioxide,sulfurdioxide and ine particulate matter.The data is categorized by UHF42 neighborhood for years 2013 and 2015.
 
@@ -128,14 +128,17 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 |**so2\_num\_per\_km2**|Float|Number of emissions per kilometer squared|
 |**pm2\_num\_per\_km2**|Float|Number of emissions per kilometer squared|
 
-Dataset:sulfur\_34 Contains data about the average amount of sulfurdioxide in the air.The data is categorized by UHF34 neighborhood for years 2008-2015.
+`Dataset:sulfur\_34` 
+
+
+Contains data about the average amount of sulfurdioxide in the air.The data is categorized by UHF34 neighborhood for years 2008-2015.
 
 
 There are 272 rows and 3 columns. 
 
 
 
-`https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu`
+https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 
 
@@ -146,7 +149,14 @@ There are 272 rows and 3 columns.
 |**geo\_place\_name**|STRING|UHF 34 Neighborhood name|
 |**mean\_so2**|Float|Average yearly amount of sulfur|
 
-Dataset:sulfur\_42 Contains data about the average amount of sulfurdioxide in the air.The data is categorized by UHF42 neighborhood for years 2008 and 2015.There are 336 rows and 3 columns. https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
+Dataset:sulfur\_42
+
+
+Contains data about the average amount of sulfurdioxide in the air.
+The data is categorized by UHF42 neighborhood for years 2008 and 2015. There are 336 rows and 3 columns. 
+
+
+https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 
 
@@ -158,6 +168,9 @@ Dataset:sulfur\_42 Contains data about the average amount of sulfurdioxide in th
 |**mean\_so2**|Float|Average yearly amount of sulfur|
 
 Dataset:o3\_pm2\_attributable\_hospital\_visits
+
+
+
 
 Containsdataaboutthenumberofemergencydepartmentvisitsandhospitalizationsfor asthmaattributedto ineparticulatematterandozonetoxins.Thedataiscategorizedby UHF42neighborhood.Thedataiscategorizedinthefollowingtimeperiods:2005-2007, 2009-2011,2012-2014,2015-2017.Thereare168rowsand9columns. https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
