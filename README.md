@@ -20,6 +20,7 @@ in New York City](https://docs.google.com/document/d/1PZRT_0nhVFE29YuoBeKd6435zL
 
 Dataset:airq\_34\_all
 
+
 Contains data about the average amounts of toxins: Fine particulate matter, nitrogen
 dioxide, and ozone. The data is categorized by UHF34 neighborhood for years 2009 to
 2018.
@@ -43,6 +44,7 @@ https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
 |**Ozone mean (ppb)**|Float|Average yearly amount of ozone|
 
 Dataset:airq\_42\_all
+
 
 Contains data about the average amounts of toxins: ?ine particulate matter, nitrogen
 dioxide, and ozone. The data is categorized by UHF42 neighborhood for years 2009 to
@@ -85,7 +87,10 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 |**geo\_place\_name**|STRING|UHF 34 Neighborhood name|
 |**mean\_benzene**|Float|Average yearly concentration of benzene in the air|
 
-Dataset:formaldehyde\_42 Contains data about the average concentration of formal dehyde in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.
+Dataset:formaldehyde\_42
+
+
+Contains data about the average concentration of formal dehyde in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.
 
 
 There are 84 rows and 3 columns.
