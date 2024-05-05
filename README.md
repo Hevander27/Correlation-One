@@ -15,11 +15,15 @@ in New York City](https://docs.google.com/document/d/1PZRT_0nhVFE29YuoBeKd6435zL
 **Power Point:** [Team 45 Presentation](https://docs.google.com/presentation/d/1TyA2HsA6o0-gvV_tjdVr-jMRYL1DyoXaqumnDSX84uw/edit#slide=id.ge6b119a546_0_24)
 
 
-**Data Table Schema Team 45**
+
+## Data Table Schema Team 45
 
 Dataset:airq\_34\_all
 
-Contains data about the average amounts of toxins: ine particulate matter, nitrogen dioxide,and ozone.The data is categorized by UHF34 neighborhood for years 2009 to 2018.There are 330 rows and 6columns. https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
+Contains data about the average amounts of toxins: ?ine particulate matter, nitrogen
+dioxide, and ozone. The data is categorized by UHF34 neighborhood for years 2009 to
+2018. There are 330 rows and 6 columns.
+https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
 
 
 
@@ -35,7 +39,10 @@ Contains data about the average amounts of toxins: ine particulate matter, nitro
 ||||
 Dataset:airq\_42\_all
 
-Contains data about the average amounts of toxins: in eparticulate matter,nitrogen dioxide,andozone.ThedataiscategorizedbyUHF42neighborhoodforyears2009to 2018.Thereare420rowsand6columns. https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
+Contains data about the average amounts of toxins: ?ine particulate matter, nitrogen
+dioxide, and ozone. The data is categorized by UHF42 neighborhood for years 2009 to
+2018. There are 420 rows and 6 columns.
+https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
 
 
 
