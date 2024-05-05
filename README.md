@@ -20,7 +20,7 @@ in New York City](https://docs.google.com/document/d/1PZRT_0nhVFE29YuoBeKd6435zL
 
 Dataset:airq\_34\_all
 
-Contains data about the average amounts of toxins: ?ine particulate matter, nitrogen
+Contains data about the average amounts of toxins: Fine particulate matter, nitrogen
 dioxide, and ozone. The data is categorized by UHF34 neighborhood for years 2009 to
 2018. There are 330 rows and 6 columns.
 https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
