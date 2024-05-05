@@ -43,6 +43,7 @@ Contains data about the average amounts of toxins: ?ine particulate matter, nitr
 dioxide, and ozone. The data is categorized by UHF42 neighborhood for years 2009 to
 2018. There are 420 rows and 6 columns.
 
+
 https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
 
 
@@ -61,6 +62,7 @@ Dataset:benzene\_42
 
 Contains data about the average concentration of benzene in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.There are 84 rows and 3 columns. 
 
+
 https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 
@@ -73,6 +75,7 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 |**mean\_benzene**|Float|Average yearly concentration of benzene in the air|
 
 Dataset:formaldehyde\_42 Contains data about the average concentration of formal dehyde in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.There are 84 rows and 3 columns.
+
 
 https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
@@ -87,7 +90,10 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 Dataset:boiler\_emissions
 
-Contains data about the average boiler emissions of toxins nitrogen dioxide,sulfurdioxide and ine particulate matter.The data is categorized by UHF42 neighborhood for years 2013 and 2015.There are 84 rows and 5 columns. https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
+Contains data about the average boiler emissions of toxins nitrogen dioxide,sulfurdioxide and ine particulate matter.The data is categorized by UHF42 neighborhood for years 2013 and 2015.There are 84 rows and 5 columns. 
+
+
+https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 
 
