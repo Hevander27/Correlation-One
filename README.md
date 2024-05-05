@@ -36,7 +36,7 @@ https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
 |**mean\_fpm**|Float|Average yearly amount of fine particulate matter|
 |**mean\_no**|Float|Average yearly amount of nitrogen dioxide|
 |**Ozone mean (ppb)**|Float|Average yearly amount of ozone|
-||||
+
 Dataset:airq\_42\_all
 
 Contains data about the average amounts of toxins: ?ine particulate matter, nitrogen
