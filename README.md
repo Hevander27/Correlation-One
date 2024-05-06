@@ -4,8 +4,8 @@ Created by: Hevander Da Costa
 
 
 1. [Purpose](#Purpose)
-2. [Project](#Project)
-3. [Analysis and Presentation](#Analysis_Presentation)
+2. [Analysis](#Analysis)
+3. [Report and Presentation](#Analysis_Presentation)
 4. [Data Table Schema](#Data_Table_Schema)
 
 
@@ -19,8 +19,10 @@ The purpose of this project was to analyze New York City data on asthma contribu
 ![Team45_projectBoard](https://github.com/Hevander27/Correlation-One/assets/45948489/f3a0638b-edc8-41c6-914c-b7658fb140c5)
 
 
+## Analysis
 
-## Analysis and Presentation
+
+## Report and Presentation
 **Full Report:** [What Contributes to Asthma Disparity 
 in New York City](https://docs.google.com/document/d/1PZRT_0nhVFE29YuoBeKd6435zLIpL_2vErgc3j9Iu_4/edit)
 
