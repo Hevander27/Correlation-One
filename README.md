@@ -395,10 +395,8 @@ names, made everything lowercase, and changed the datatypes to the appropriate
 datatypes for each column
 
 
-Rows:193
+There are 193 rows and 7 columns.
 
-
-Columns:7
 
 
 
@@ -422,10 +420,9 @@ made everything lowercase, and changed the datatypes to the appropriate datatype
 each column.
 
 
-Rows:530
 
+There are 530 rows and 8 columns.
 
-Columns:8
 
 
 
@@ -450,10 +447,10 @@ years old. Listed by NYC UHF Neighborhoods and year. I removed metadata, removed
 commas, changed column names, made everything lowercase, and changed the datatypes to
 the appropriate datatypes for each column.
 
-Rows:577
 
 
-Columns:7
+There are 577 rows and 7 columns.
+
 
 
 
@@ -476,10 +473,8 @@ and year. I removed metadata, removed commas, changed column names, made everyth
 lowercase, and changed the datatypes to the appropriate datatypes for each column.
 
 
-Rows:530
+There are 530 rows and 8 columns.
 
-
-Columns:8
 
 
 
@@ -505,10 +500,9 @@ Neighborhoods and year. I removed metadata, removed commas, changed column names
 made everything lowercase, and changed the datatypes to the appropriate datatypes for
 each column.
 
-Rows:577
 
+There are 577 rows and 7 columns.
 
-Columns:7
 
 
 
@@ -524,7 +518,7 @@ Columns:7
 |**year** |category|The year of that data point|
 
 
-MedianHouseholdIncomeByRacebyTract,2012-2016
+Dataset: [MedianHouseholdIncomeByRacebyTract,2012-2016](https://racialequity.maps.arcgis.com/apps/mapviewer/index.html?webmap=7ea542ec16364bd58c7d073443a35967)
 
 
 Contains data about the average household income organized by race in different state and
@@ -533,11 +527,7 @@ Having over 30 ?ields I will be organizing and cleaning up including below what 
 more relevant to our research
 
 
-
-*Rounded number of rows:*72730 *
-*specic number of columns: 33.* 
-Size:72728
-records [Source: https://racialequity.maps.arcgis.com/apps/mapviewer/index.html? webmap=7ea542ec16364bd58c7d073443a35967](https://racialequity.maps.arcgis.com/apps/mapviewer/index.html?webmap=7ea542ec16364bd58c7d073443a35967)
+There are 72730 rows and 33 columns.
 
 
 
