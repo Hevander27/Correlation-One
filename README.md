@@ -124,6 +124,7 @@ There are 84 rows and 3 columns.
 
 Dataset:[boiler_emissions](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
+
 Contains data about the average boiler emissions of toxins nitrogen dioxide,sulfurdioxide and ine particulate matter.The data is categorized by UHF42 neighborhood for years 2013 and 2015.
 
 
@@ -240,6 +241,8 @@ There are 84 rows and 6 columns.
 
 
 Dataset: [adult_smoking_joined_UHF34_CLEAN](https://a816-dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=3)
+
+
 This is data related to adults smoking and being in smoking environments. Additional meta data was dropped.
 Data was converted to numeric values to allow for appropriate usage.
 
