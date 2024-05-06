@@ -84,7 +84,8 @@ There are 420 rows and 6 columns.
 Contains data about the average concentration of benzene in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.
 
 
-There are 84 rows and 3 columns. 
+Rows: 84 
+Columns: 3 
 
 
 
@@ -103,7 +104,10 @@ There are 84 rows and 3 columns.
 Contains data about the average concentration of formal dehyde in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.
 
 
-There are 84 rows and 3 columns.
+Rows: 84 rows 
+
+
+Columns: 3 
 
 
 
@@ -122,7 +126,10 @@ There are 84 rows and 3 columns.
 Contains data about the average boiler emissions of toxins nitrogen dioxide,sulfurdioxide and ine particulate matter.The data is categorized by UHF42 neighborhood for years 2013 and 2015.
 
 
-There are 84 rows and 5 columns. 
+Rows: 84 rows 
+
+
+Columns: 5  
 
 
 
@@ -208,7 +215,10 @@ Dataset:[traffic_merged](https://data.cityofnewyork.us/Environment/Air-Quality/f
 Contains data about the number of miles driven by cars and trucks in UHF42 neighborhoods.The data covers years 2005 and 2016.
 
 
-There are 84 rows and 5 columns.
+Rows: 84 rows
+
+
+Columns: 5 
 
 
 
@@ -258,7 +268,11 @@ County - Manhattan, Queens County - Queens, Richmond County - Staten Island.
 
 
 
-*51 rows & 231 columns.*
+Rows: 51 
+
+
+
+Columns: 231 
 
 
 |Field|Type |Description|
@@ -273,9 +287,13 @@ County - Manhattan, Queens County - Queens, Richmond County - Staten Island.
 |**etc. - full descrip on in NYC\_SDOH\_dic onary**|||
 **NYC\_SDOH\_dictionary**
 
+
+
 Detaileddescriptionofeachofthe ields.
 
-*236 rows & 4 columns.* 
+Rows: 236 
+
+Columns: 4  
 
 Dataset:[Asthma_ED_Visits](https://a816-dohbesp.nyc.gov/IndicatorPublic/VisualizationData.aspx?id=2380,4466a0,11,Summarize)
 
@@ -290,7 +308,10 @@ year. Asthma ED Visit data was only taken/available for the years 2009-2016 with
 available per county for the year 2015.
 
 
-*106 rows & 6 columns.* Size:approximatesizeasappearsonyour ileexplorer.Source: [NYC Environment&HealthDataPortal] (https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
+Rows: 106 
+
+
+Columns: 6
 
 
 
@@ -314,11 +335,10 @@ The included columns: Borough, geo_place_name, zip code, longitude and latitude,
 to identify location.
 
 
-*Rows: 65050*
-*Columns: 7*
+Rows: 65050
 
-Size:3,601KB
 
+Columns: 7
 
 
 
@@ -346,6 +366,7 @@ each column.
 
 
 Rows:521
+
 
 Columns:8
 
@@ -375,6 +396,7 @@ datatypes for each column
 
 Rows:193
 
+
 Columns:7
 
 
@@ -400,6 +422,8 @@ each column.
 
 
 Rows:530
+
+
 Columns:8
 
 
@@ -481,6 +505,8 @@ made everything lowercase, and changed the datatypes to the appropriate datatype
 each column.
 
 Rows:577
+
+
 Columns:7
 
 
