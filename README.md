@@ -179,7 +179,10 @@ Dataset:[sulfur_42](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-h
 
 
 Contains data about the average amount of sulfurdioxide in the air.
-The data is categorized by UHF42 neighborhood for years 2008 and 2015. There are 336 rows and 3 columns. 
+The data is categorized by UHF42 neighborhood for years 2008 and 2015. 
+
+
+There are 336 rows and 3 columns. 
 
 
 
@@ -226,10 +229,9 @@ Dataset:[traffic_merged](https://data.cityofnewyork.us/Environment/Air-Quality/f
 Contains data about the number of miles driven by cars and trucks in UHF42 neighborhoods.The data covers years 2005 and 2016.
 
 
-Rows: 84 rows
 
+There are 84 rows and 6 columns. 
 
-Columns: 5 
 
 
 
@@ -279,11 +281,8 @@ County - Manhattan, Queens County - Queens, Richmond County - Staten Island.
 
 
 
-Rows: 51 
+There are 51 rows and 231 columns. 
 
-
-
-Columns: 231 
 
 
 |Field|Type |Description|
@@ -301,10 +300,16 @@ Columns: 231
 
 
 Detaileddescriptionofeachofthe ields.
+NYC_SDOH_dictionary
 
-Rows: 236 
+NYC_SDOH_dictionary
+Detailed description of each of the ?ields.
+236 rows & 4 columns. Size: 29.5 KB Source: Agency of Healthcare Research and Quality
 
-Columns: 4  
+
+There are 236 rows and 4 columns. 
+
+
 
 Dataset:[Asthma_ED_Visits](https://a816-dohbesp.nyc.gov/IndicatorPublic/VisualizationData.aspx?id=2380,4466a0,11,Summarize)
 
@@ -319,10 +324,7 @@ year. Asthma ED Visit data was only taken/available for the years 2009-2016 with
 available per county for the year 2015.
 
 
-Rows: 106 
-
-
-Columns: 6
+There are 106 rows and 6 columns. 
 
 
 
@@ -346,10 +348,8 @@ The included columns: Borough, geo_place_name, zip code, longitude and latitude,
 to identify location.
 
 
-Rows: 65050
+There are 65050 rows and 7 columns. 
 
-
-Columns: 7
 
 
 
