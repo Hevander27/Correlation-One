@@ -1,0 +1,253 @@
+,Geography,Borough,Year,asbestos_count,gasses_count,ventilation_count,mold_count,dust_count,sewageO_count,sewageL_count,Annual_Adult_Rate_Per10k
+0,Bayside - Littleneck,Queens,2010,5.0,4.0,4.0,3.0,,,,18.0
+1,Bayside - Littleneck,Queens,2011,2.0,8.0,8.0,2.0,,,,17.5
+2,Bayside - Littleneck,Queens,2012,6.0,16.0,3.0,2.0,,,,21.4
+3,Bayside - Littleneck,Queens,2013,1.0,12.0,4.0,,,,,18.8
+4,Bayside - Littleneck,Queens,2014,5.0,21.0,,,4.0,,,19.6
+5,Bayside - Littleneck,Queens,2016,9.0,15.0,4.0,5.0,1.0,,,16.1
+6,Bedford Stuyvesant - Crown Heights,Brooklyn,2010,15.0,50.0,24.0,3.0,7.0,,,224.3
+7,Bedford Stuyvesant - Crown Heights,Brooklyn,2011,34.0,67.0,54.0,10.0,19.0,,,218.0
+8,Bedford Stuyvesant - Crown Heights,Brooklyn,2012,27.0,69.0,34.0,12.0,35.0,,,241.1
+9,Bedford Stuyvesant - Crown Heights,Brooklyn,2013,25.0,100.0,40.0,8.0,42.0,,,232.8
+10,Bedford Stuyvesant - Crown Heights,Brooklyn,2014,38.0,94.0,36.0,18.0,57.0,,,235.2
+11,Bedford Stuyvesant - Crown Heights,Brooklyn,2016,24.0,94.0,51.0,14.0,43.0,,,208.5
+12,Bensonhurst - Bay Ridge,Brooklyn,2010,7.0,23.0,9.0,4.0,4.0,,,27.2
+13,Bensonhurst - Bay Ridge,Brooklyn,2011,16.0,40.0,17.0,11.0,4.0,,,26.2
+14,Bensonhurst - Bay Ridge,Brooklyn,2012,11.0,28.0,19.0,8.0,6.0,,,32.4
+15,Bensonhurst - Bay Ridge,Brooklyn,2013,9.0,27.0,16.0,7.0,3.0,,,30.4
+16,Bensonhurst - Bay Ridge,Brooklyn,2014,5.0,36.0,30.0,18.0,5.0,,,29.0
+17,Bensonhurst - Bay Ridge,Brooklyn,2016,11.0,31.0,14.0,4.0,5.0,,,23.5
+18,Borough Park,Brooklyn,2010,5.0,25.0,9.0,2.0,5.0,,,28.6
+19,Borough Park,Brooklyn,2011,15.0,67.0,16.0,1.0,11.0,,,36.0
+20,Borough Park,Brooklyn,2012,13.0,62.0,11.0,4.0,4.0,,,38.8
+21,Borough Park,Brooklyn,2013,14.0,89.0,17.0,8.0,11.0,,,31.0
+22,Borough Park,Brooklyn,2014,17.0,63.0,22.0,7.0,7.0,,,34.1
+23,Borough Park,Brooklyn,2016,14.0,40.0,21.0,1.0,9.0,,,27.2
+24,Canarsie - Flatlands,Brooklyn,2011,7.0,25.0,13.0,7.0,1.0,,,95.3
+25,Canarsie - Flatlands,Brooklyn,2012,8.0,20.0,7.0,5.0,2.0,,,102.2
+26,Canarsie - Flatlands,Brooklyn,2013,6.0,14.0,11.0,7.0,2.0,,,101.7
+27,Canarsie - Flatlands,Brooklyn,2014,5.0,19.0,18.0,13.0,2.0,,,93.1
+28,Canarsie - Flatlands,Brooklyn,2016,3.0,21.0,18.0,4.0,5.0,,,99.2
+29,Central Harlem - Morningside Heights,Manhattan,2010,5.0,32.0,13.0,1.0,16.0,,,95.2
+30,Central Harlem - Morningside Heights,Manhattan,2011,25.0,59.0,32.0,7.0,17.0,,,284.3
+31,Central Harlem - Morningside Heights,Manhattan,2012,9.0,55.0,27.0,12.0,49.0,,,259.8
+32,Central Harlem - Morningside Heights,Manhattan,2013,16.0,35.0,30.0,7.0,15.0,,,277.9
+33,Central Harlem - Morningside Heights,Manhattan,2014,17.0,57.0,28.0,6.0,13.0,,,263.7
+34,Central Harlem - Morningside Heights,Manhattan,2016,15.0,43.0,25.0,11.0,44.0,,,263.3
+35,Chelsea - Clinton,Manhattan,2010,13.0,31.0,24.0,5.0,22.0,,,266.5
+36,Chelsea - Clinton,Manhattan,2011,27.0,58.0,49.0,22.0,62.0,,,49.9
+37,Chelsea - Clinton,Manhattan,2012,20.0,78.0,62.0,27.0,62.0,,,54.8
+38,Chelsea - Clinton,Manhattan,2013,13.0,101.0,58.0,28.0,70.0,,,57.0
+39,Chelsea - Clinton,Manhattan,2014,16.0,100.0,45.0,26.0,66.0,,,54.0
+40,Chelsea - Clinton,Manhattan,2016,12.0,77.0,52.0,26.0,66.0,,,57.9
+41,Coney Island - Sheepshead Bay,Brooklyn,2010,9.0,27.0,20.0,2.0,11.0,,,47.5
+42,Coney Island - Sheepshead Bay,Brooklyn,2011,16.0,42.0,42.0,5.0,14.0,,,50.2
+43,Coney Island - Sheepshead Bay,Brooklyn,2012,31.0,75.0,31.0,21.0,12.0,,,56.2
+44,Coney Island - Sheepshead Bay,Brooklyn,2013,24.0,75.0,22.0,27.0,7.0,,,59.4
+45,Coney Island - Sheepshead Bay,Brooklyn,2014,10.0,44.0,38.0,36.0,6.0,,,57.6
+46,Coney Island - Sheepshead Bay,Brooklyn,2016,8.0,55.0,29.0,18.0,15.0,,,57.1
+47,Crotona -Tremont,Bronx,2010,12.0,15.0,9.0,1.0,5.0,,,53.2
+48,Crotona -Tremont,Bronx,2011,21.0,42.0,20.0,3.0,7.0,,,309.6
+49,Crotona -Tremont,Bronx,2012,13.0,21.0,19.0,3.0,2.0,,,302.3
+50,Crotona -Tremont,Bronx,2013,11.0,22.0,24.0,6.0,8.0,,,298.3
+51,Crotona -Tremont,Bronx,2014,15.0,28.0,22.0,5.0,12.0,,,283.3
+52,Crotona -Tremont,Bronx,2016,14.0,37.0,21.0,3.0,4.0,,,289.1
+53,Downtown - Heights - Slope,Brooklyn,2010,10.0,23.0,15.0,2.0,9.0,,,247.4
+54,Downtown - Heights - Slope,Brooklyn,2011,14.0,59.0,33.0,9.0,21.0,,,87.0
+55,Downtown - Heights - Slope,Brooklyn,2012,21.0,75.0,34.0,20.0,29.0,,,91.1
+56,Downtown - Heights - Slope,Brooklyn,2013,15.0,76.0,41.0,17.0,35.0,,,89.6
+57,Downtown - Heights - Slope,Brooklyn,2014,11.0,78.0,23.0,6.0,57.0,,,80.5
+58,Downtown - Heights - Slope,Brooklyn,2016,14.0,57.0,30.0,10.0,32.0,,,73.4
+59,East Flatbush - Flatbush,Brooklyn,2010,10.0,40.0,13.0,1.0,5.0,,,67.3
+60,East Flatbush - Flatbush,Brooklyn,2011,22.0,94.0,49.0,7.0,14.0,,,130.0
+61,East Flatbush - Flatbush,Brooklyn,2012,19.0,58.0,31.0,7.0,6.0,,,146.4
+62,East Flatbush - Flatbush,Brooklyn,2013,12.0,81.0,23.0,11.0,8.0,,,146.5
+63,East Flatbush - Flatbush,Brooklyn,2014,35.0,96.0,32.0,13.0,23.0,,,139.5
+64,East Flatbush - Flatbush,Brooklyn,2016,35.0,79.0,37.0,10.0,31.0,,,125.3
+65,East Harlem,Manhattan,2010,1.0,12.0,11.0,,15.0,,,122.2
+66,East Harlem,Manhattan,2011,7.0,25.0,21.0,2.0,2.0,,,299.5
+67,East Harlem,Manhattan,2012,8.0,18.0,17.0,2.0,9.0,,,317.9
+68,East Harlem,Manhattan,2013,6.0,33.0,37.0,4.0,4.0,,,325.6
+69,East Harlem,Manhattan,2014,2.0,35.0,16.0,3.0,7.0,,,316.8
+70,East Harlem,Manhattan,2016,5.0,22.0,10.0,2.0,5.0,,,336.2
+71,East New York,Brooklyn,2010,6.0,15.0,8.0,,4.0,,,314.5
+72,East New York,Brooklyn,2011,13.0,23.0,18.0,4.0,5.0,,,208.2
+73,East New York,Brooklyn,2012,9.0,12.0,15.0,3.0,1.0,,,216.9
+74,East New York,Brooklyn,2013,9.0,17.0,12.0,10.0,5.0,,,235.3
+75,East New York,Brooklyn,2014,10.0,19.0,16.0,7.0,5.0,,,234.8
+76,East New York,Brooklyn,2016,7.0,16.0,17.0,6.0,5.0,,,248.1
+77,Flushing - Clearview,Queens,2010,4.0,20.0,8.0,7.0,3.0,,,208.4
+78,Flushing - Clearview,Queens,2011,15.0,24.0,20.0,5.0,6.0,,,24.5
+79,Flushing - Clearview,Queens,2012,8.0,22.0,19.0,3.0,3.0,,,29.6
+80,Flushing - Clearview,Queens,2013,9.0,24.0,22.0,5.0,5.0,,,29.5
+81,Flushing - Clearview,Queens,2014,5.0,39.0,23.0,5.0,6.0,,,29.3
+82,Flushing - Clearview,Queens,2016,3.0,30.0,15.0,,6.0,,,29.0
+83,Fordham - Bronx Pk,Bronx,2010,9.0,28.0,11.0,,,,,23.3
+84,Fordham - Bronx Pk,Bronx,2011,18.0,55.0,21.0,5.0,8.0,,,170.0
+85,Fordham - Bronx Pk,Bronx,2012,26.0,51.0,30.0,4.0,7.0,,,167.4
+86,Fordham - Bronx Pk,Bronx,2013,18.0,44.0,30.0,14.0,8.0,,,199.4
+87,Fordham - Bronx Pk,Bronx,2014,25.0,64.0,21.0,10.0,15.0,,,223.3
+88,Fordham - Bronx Pk,Bronx,2016,26.0,33.0,29.0,5.0,6.0,,,217.5
+89,Fresh Meadows,Queens,2010,1.0,8.0,5.0,,2.0,,,184.4
+90,Fresh Meadows,Queens,2011,7.0,19.0,7.0,,,,,42.9
+91,Fresh Meadows,Queens,2013,4.0,8.0,8.0,2.0,1.0,,,46.4
+92,Fresh Meadows,Queens,2014,3.0,9.0,1.0,2.0,3.0,,,53.1
+93,Fresh Meadows,Queens,2016,5.0,11.0,20.0,3.0,,,,50.4
+94,Gramercy Park - Murray Hill,Manhattan,2010,3.0,32.0,16.0,6.0,18.0,,,42.6
+95,Gramercy Park - Murray Hill,Manhattan,2011,13.0,74.0,47.0,13.0,33.0,,,39.9
+96,Gramercy Park - Murray Hill,Manhattan,2012,17.0,56.0,29.0,14.0,38.0,,,42.1
+97,Gramercy Park - Murray Hill,Manhattan,2013,11.0,53.0,33.0,15.0,32.0,,,46.8
+98,Gramercy Park - Murray Hill,Manhattan,2014,15.0,51.0,396.0,17.0,44.0,,,46.1
+99,Gramercy Park - Murray Hill,Manhattan,2016,12.0,67.0,36.0,15.0,40.0,,,46.5
+100,Greenpoint,Brooklyn,2010,3.0,19.0,3.0,,4.0,,,48.8
+101,Greenpoint,Brooklyn,2011,8.0,44.0,12.0,8.0,5.0,,,37.5
+102,Greenpoint,Brooklyn,2012,4.0,24.0,13.0,3.0,15.0,,,57.9
+103,Greenpoint,Brooklyn,2013,6.0,27.0,4.0,4.0,17.0,,,65.4
+104,Greenpoint,Brooklyn,2014,3.0,42.0,18.0,3.0,28.0,,,66.8
+105,Greenpoint,Brooklyn,2016,4.0,17.0,5.0,6.0,20.0,,,66.3
+106,Greenwich Village - Soho,Manhattan,2010,1.0,23.0,8.0,2.0,17.0,,,59.7
+107,Greenwich Village - Soho,Manhattan,2011,14.0,57.0,18.0,7.0,37.0,,,54.3
+108,Greenwich Village - Soho,Manhattan,2012,9.0,37.0,20.0,19.0,37.0,,,15.8
+109,Greenwich Village - Soho,Manhattan,2013,5.0,41.0,21.0,14.0,35.0,,,20.4
+110,Greenwich Village - Soho,Manhattan,2014,7.0,36.0,16.0,10.0,45.0,,,18.2
+111,Greenwich Village - Soho,Manhattan,2016,4.0,44.0,20.0,4.0,44.0,,,11.7
+112,High Bridge - Morrisania,Bronx,2010,2.0,11.0,11.0,,3.0,,,15.0
+113,High Bridge - Morrisania,Bronx,2011,10.0,27.0,13.0,1.0,7.0,,,17.6
+114,High Bridge - Morrisania,Bronx,2012,7.0,24.0,49.0,7.0,9.0,,,274.3
+115,High Bridge - Morrisania,Bronx,2013,11.0,33.0,30.0,7.0,9.0,,,263.4
+116,High Bridge - Morrisania,Bronx,2014,24.0,43.0,23.0,5.0,5.0,,,291.9
+117,High Bridge - Morrisania,Bronx,2016,10.0,41.0,26.0,3.0,12.0,,,289.9
+118,Hunts Point - Mott Haven,Bronx,2010,6.0,9.0,7.0,1.0,1.0,,,284.3
+119,Hunts Point - Mott Haven,Bronx,2011,11.0,35.0,15.0,3.0,1.0,,,280.4
+120,Hunts Point - Mott Haven,Bronx,2012,7.0,20.0,26.0,1.0,2.0,,,311.0
+121,Hunts Point - Mott Haven,Bronx,2013,5.0,25.0,13.0,2.0,4.0,,,300.2
+122,Hunts Point - Mott Haven,Bronx,2014,8.0,22.0,14.0,4.0,7.0,,,330.0
+123,Hunts Point - Mott Haven,Bronx,2016,7.0,50.0,26.0,4.0,3.0,,,325.9
+124,Jamaica,Queens,2010,7.0,15.0,10.0,1.0,2.0,,,338.3
+125,Jamaica,Queens,2011,12.0,36.0,26.0,9.0,1.0,,,309.5
+126,Jamaica,Queens,2012,13.0,39.0,19.0,9.0,1.0,,,107.3
+127,Jamaica,Queens,2013,18.0,35.0,24.0,10.0,2.0,,,100.1
+128,Jamaica,Queens,2014,13.0,43.0,16.0,10.0,3.0,,,105.7
+129,Jamaica,Queens,2016,11.0,42.0,22.0,12.0,6.0,,,103.9
+130,Kingsbridge - Riverdale,Bronx,2010,3.0,11.0,6.0,1.0,,,,101.4
+131,Kingsbridge - Riverdale,Bronx,2011,9.0,23.0,19.0,,2.0,,,86.4
+132,Kingsbridge - Riverdale,Bronx,2012,4.0,19.0,7.0,1.0,1.0,,,73.6
+133,Kingsbridge - Riverdale,Bronx,2013,11.0,24.0,13.0,2.0,,,,65.2
+134,Kingsbridge - Riverdale,Bronx,2014,3.0,20.0,9.0,1.0,4.0,,,72.1
+135,Kingsbridge - Riverdale,Bronx,2016,3.0,15.0,13.0,3.0,4.0,,,75.0
+136,Long Island City - Astoria,Queens,2010,4.0,26.0,10.0,2.0,6.0,,,71.0
+137,Long Island City - Astoria,Queens,2011,10.0,51.0,23.0,4.0,9.0,,,75.0
+138,Long Island City - Astoria,Queens,2012,12.0,45.0,24.0,5.0,8.0,,,56.3
+139,Long Island City - Astoria,Queens,2013,9.0,41.0,19.0,13.0,8.0,,,63.6
+140,Long Island City - Astoria,Queens,2014,11.0,49.0,20.0,11.0,15.0,,,64.0
+141,Long Island City - Astoria,Queens,2016,15.0,47.0,19.0,6.0,19.0,,,63.1
+142,Lower East Side,Manhattan,2010,3.0,10.0,6.0,1.0,6.0,,,56.7
+143,Lower East Side,Manhattan,2011,3.0,15.0,15.0,9.0,10.0,,,61.5
+144,Lower East Side,Manhattan,2012,2.0,17.0,8.0,,16.0,,,57.9
+145,Lower East Side,Manhattan,2013,3.0,13.0,4.0,9.0,8.0,,,47.8
+146,Lower East Side,Manhattan,2014,5.0,16.0,5.0,4.0,12.0,,,47.9
+147,Lower East Side,Manhattan,2016,4.0,32.0,12.0,4.0,60.0,,,38.0
+148,Lower Manhattan,Manhattan,2011,6.0,15.0,23.0,4.0,2.0,,,47.0
+149,Lower Manhattan,Manhattan,2012,4.0,31.0,30.0,9.0,3.0,,,48.7
+150,Lower Manhattan,Manhattan,2013,2.0,26.0,18.0,9.0,11.0,,,92.4
+151,Lower Manhattan,Manhattan,2014,3.0,16.0,16.0,4.0,14.0,,,89.8
+152,Lower Manhattan,Manhattan,2016,2.0,16.0,12.0,1.0,8.0,,,134.3
+153,Northeast Bronx,Bronx,2010,5.0,14.0,14.0,1.0,,,,161.2
+154,Northeast Bronx,Bronx,2011,7.0,25.0,18.0,2.0,4.0,,,165.3
+155,Northeast Bronx,Bronx,2012,9.0,17.0,16.0,1.0,2.0,,,139.1
+156,Northeast Bronx,Bronx,2013,13.0,26.0,19.0,3.0,1.0,,,143.4
+157,Northeast Bronx,Bronx,2014,14.0,20.0,11.0,9.0,2.0,,,137.8
+158,Northeast Bronx,Bronx,2016,10.0,17.0,12.0,10.0,2.0,,,163.6
+159,Pelham - Throgs Neck,Bronx,2010,11.0,23.0,9.0,,4.0,,,165.5
+160,Pelham - Throgs Neck,Bronx,2011,23.0,53.0,21.0,3.0,8.0,,,164.1
+161,Pelham - Throgs Neck,Bronx,2012,8.0,49.0,21.0,8.0,4.0,,,136.4
+162,Pelham - Throgs Neck,Bronx,2013,26.0,40.0,28.0,9.0,8.0,,,146.3
+163,Pelham - Throgs Neck,Bronx,2014,23.0,41.0,23.0,14.0,10.0,,,158.7
+164,Pelham - Throgs Neck,Bronx,2016,27.0,38.0,29.0,7.0,11.0,,,176.7
+165,Port Richmond,Staten Island,2010,1.0,1.0,2.0,1.0,,,,140.8
+166,Port Richmond,Staten Island,2011,5.0,8.0,6.0,3.0,,,,151.5
+167,Port Richmond,Staten Island,2012,1.0,8.0,4.0,1.0,,,,121.5
+168,Port Richmond,Staten Island,2013,2.0,4.0,6.0,3.0,2.0,,,39.6
+169,Port Richmond,Staten Island,2014,3.0,1.0,1.0,7.0,2.0,,,39.0
+170,Port Richmond,Staten Island,2016,3.0,5.0,4.0,12.0,,,,40.8
+171,Ridgewood -Forest Hills,Queens,2010,7.0,20.0,8.0,2.0,7.0,,,39.9
+172,Ridgewood -Forest Hills,Queens,2011,10.0,37.0,23.0,4.0,9.0,,,42.8
+173,Ridgewood -Forest Hills,Queens,2012,16.0,28.0,13.0,11.0,16.0,,,38.3
+174,Ridgewood -Forest Hills,Queens,2013,15.0,49.0,16.0,9.0,3.0,,,115.0
+175,Ridgewood -Forest Hills,Queens,2014,16.0,53.0,18.0,5.0,15.0,,,123.0
+176,Ridgewood -Forest Hills,Queens,2016,17.0,30.0,14.0,8.0,6.0,,,130.4
+177,Rockaway,Queens,2010,1.0,10.0,3.0,1.0,2.0,,,103.6
+178,Rockaway,Queens,2011,10.0,11.0,12.0,2.0,2.0,,,124.7
+179,Rockaway,Queens,2012,15.0,20.0,20.0,16.0,7.0,,,115.6
+180,Rockaway,Queens,2013,11.0,23.0,31.0,27.0,7.0,,,37.7
+181,Rockaway,Queens,2014,3.0,17.0,17.0,20.0,1.0,,,39.2
+182,Rockaway,Queens,2016,12.0,24.0,6.0,3.0,7.0,,,44.9
+183,South Beach - Tottenville,Staten Island,2010,8.0,4.0,5.0,1.0,1.0,,,33.9
+184,South Beach - Tottenville,Staten Island,2011,4.0,11.0,12.0,11.0,,,,32.4
+185,South Beach - Tottenville,Staten Island,2012,5.0,8.0,11.0,3.0,1.0,,,27.0
+186,South Beach - Tottenville,Staten Island,2013,9.0,7.0,12.0,23.0,1.0,,,71.6
+187,South Beach - Tottenville,Staten Island,2014,5.0,6.0,4.0,34.0,,,,66.8
+188,South Beach - Tottenville,Staten Island,2016,6.0,9.0,8.0,20.0,1.0,,,65.4
+189,Southeast Queens,Queens,2010,4.0,5.0,5.0,1.0,,,,58.8
+190,Southeast Queens,Queens,2011,4.0,9.0,7.0,1.0,1.0,,,59.9
+191,Southeast Queens,Queens,2012,4.0,12.0,10.0,3.0,,,,54.9
+192,Southeast Queens,Queens,2013,3.0,32.0,8.0,4.0,1.0,,,71.0
+193,Southeast Queens,Queens,2014,3.0,12.0,8.0,6.0,3.0,,,69.0
+194,Southeast Queens,Queens,2016,5.0,20.0,5.0,3.0,,,,73.3
+195,Southwest Queens,Queens,2010,9.0,15.0,4.0,,4.0,,,63.7
+196,Southwest Queens,Queens,2011,18.0,36.0,13.0,6.0,2.0,,,67.2
+197,Southwest Queens,Queens,2012,15.0,39.0,11.0,9.0,5.0,,,50.6
+198,Southwest Queens,Queens,2013,8.0,23.0,12.0,14.0,8.0,,,112.2
+199,Southwest Queens,Queens,2014,12.0,26.0,18.0,28.0,3.0,,,115.1
+200,Southwest Queens,Queens,2016,14.0,18.0,10.0,14.0,7.0,,,124.5
+201,Stapleton - St. George,Staten Island,2010,4.0,5.0,5.0,,1.0,,,109.7
+202,Stapleton - St. George,Staten Island,2011,9.0,17.0,10.0,4.0,2.0,,,109.4
+203,Stapleton - St. George,Staten Island,2012,6.0,13.0,10.0,6.0,2.0,,,85.5
+204,Stapleton - St. George,Staten Island,2013,6.0,15.0,8.0,12.0,1.0,,,80.9
+205,Stapleton - St. George,Staten Island,2014,7.0,12.0,6.0,17.0,4.0,,,76.8
+206,Stapleton - St. George,Staten Island,2016,11.0,81.0,14.0,7.0,3.0,,,84.3
+207,Sunset Park,Brooklyn,2010,3.0,6.0,1.0,,2.0,,,78.4
+208,Sunset Park,Brooklyn,2011,5.0,10.0,6.0,1.0,8.0,,,61.5
+209,Sunset Park,Brooklyn,2012,8.0,13.0,9.0,9.0,4.0,,,48.5
+210,Sunset Park,Brooklyn,2013,2.0,16.0,9.0,4.0,2.0,,,76.8
+211,Sunset Park,Brooklyn,2014,13.0,26.0,6.0,2.0,8.0,,,101.3
+212,Sunset Park,Brooklyn,2016,5.0,14.0,4.0,4.0,1.0,,,106.8
+213,Union Square - Lower East Side,Manhattan,2010,3.0,18.0,9.0,1.0,25.0,,,83.4
+214,Union Square - Lower East Side,Manhattan,2011,12.0,60.0,20.0,4.0,46.0,,,86.1
+215,Union Square - Lower East Side,Manhattan,2012,7.0,61.0,18.0,10.0,37.0,,,77.5
+216,Union Square - Lower East Side,Manhattan,2013,9.0,49.0,26.0,7.0,36.0,,,21.1
+217,Union Square - Lower East Side,Manhattan,2014,6.0,35.0,25.0,8.0,51.0,,,24.7
+218,Union Square - Lower East Side,Manhattan,2016,9.0,43.0,22.0,7.0,77.0,,,20.6
+219,Upper East Side,Manhattan,2010,3.0,24.0,10.0,2.0,10.0,,,21.2
+220,Upper East Side,Manhattan,2011,12.0,51.0,30.0,1.0,12.0,,,23.7
+221,Upper East Side,Manhattan,2012,12.0,68.0,25.0,7.0,37.0,,,18.2
+222,Upper East Side,Manhattan,2013,3.0,63.0,31.0,6.0,25.0,,,58.9
+223,Upper East Side,Manhattan,2014,4.0,42.0,12.0,3.0,21.0,,,54.0
+224,Upper East Side,Manhattan,2016,10.0,52.0,31.0,4.0,30.0,,,59.4
+225,Upper West Side,Manhattan,2010,10.0,42.0,25.0,3.0,14.0,,,55.2
+226,Upper West Side,Manhattan,2011,33.0,80.0,35.0,7.0,37.0,,,59.9
+227,Upper West Side,Manhattan,2012,15.0,76.0,31.0,10.0,50.0,,,61.7
+228,Upper West Side,Manhattan,2013,27.0,100.0,20.0,12.0,34.0,,,94.1
+229,Upper West Side,Manhattan,2014,26.0,79.0,38.0,9.0,47.0,,,95.0
+230,Upper West Side,Manhattan,2016,27.0,150.0,31.0,8.0,49.0,,,97.7
+231,Washington Heights,Manhattan,2010,11.0,32.0,21.0,,20.0,,,93.2
+232,Washington Heights,Manhattan,2011,25.0,67.0,29.0,1.0,24.0,,,100.2
+233,Washington Heights,Manhattan,2012,19.0,84.0,21.0,5.0,27.0,,,89.9
+234,Washington Heights,Manhattan,2013,23.0,263.0,30.0,6.0,22.0,,,35.8
+235,Washington Heights,Manhattan,2014,17.0,446.0,32.0,5.0,25.0,,,39.6
+236,Washington Heights,Manhattan,2016,24.0,180.0,31.0,4.0,33.0,,,42.6
+237,West Queens,Queens,2010,10.0,35.0,10.0,2.0,4.0,,,41.5
+238,West Queens,Queens,2011,19.0,48.0,22.0,6.0,5.0,,,41.3
+239,West Queens,Queens,2012,22.0,44.0,34.0,8.0,7.0,,,41.0
+240,West Queens,Queens,2013,17.0,61.0,32.0,7.0,5.0,,,238.3
+241,West Queens,Queens,2014,17.0,50.0,26.0,4.0,10.0,,,233.8
+242,West Queens,Queens,2016,18.0,46.0,32.0,7.0,10.0,,,260.5
+243,Williamsburg - Bushwick,Brooklyn,2010,9.0,22.0,13.0,1.0,8.0,,,242.8
+244,Williamsburg - Bushwick,Brooklyn,2011,17.0,51.0,16.0,6.0,22.0,,,233.1
+245,Williamsburg - Bushwick,Brooklyn,2012,13.0,30.0,17.0,6.0,27.0,,,199.9
+246,Williamsburg - Bushwick,Brooklyn,2013,8.0,48.0,18.0,9.0,32.0,,,46.9
+247,Williamsburg - Bushwick,Brooklyn,2014,8.0,36.0,12.0,8.0,22.0,,,41.1
+248,Williamsburg - Bushwick,Brooklyn,2016,13.0,39.0,17.0,2.0,30.0,,,41.3
+249,Willowbrook,Staten Island,2010,1.0,3.0,2.0,1.0,1.0,,,43.0
+250,Willowbrook,Staten Island,2011,1.0,9.0,5.0,4.0,,,,41.3
+251,Willowbrook,Staten Island,2012,6.0,2.0,3.0,3.0,1.0,,,29.7

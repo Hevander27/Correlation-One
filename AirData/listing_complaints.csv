@@ -1,0 +1,523 @@
+,UHF_42,Incident_Address_Borough,Date_Received,asbestos_count,gasses_count,ventilation_count,mold_count,dust_count,sewageO_count,sewageL_count
+0,bayside - littleneck,Queens,2010,5.0,4.0,4.0,3.0,,,
+1,bayside - littleneck,Queens,2011,2.0,8.0,8.0,2.0,,,
+2,bayside - littleneck,Queens,2012,6.0,16.0,3.0,2.0,,,
+3,bayside - littleneck,Queens,2013,1.0,12.0,4.0,,,,
+4,bayside - littleneck,Queens,2014,5.0,21.0,,,4.0,,
+5,bayside - littleneck,Queens,2015,4.0,22.0,6.0,3.0,1.0,,
+6,bayside - littleneck,Queens,2016,9.0,15.0,4.0,5.0,1.0,,
+7,bayside - littleneck,Queens,2017,6.0,13.0,13.0,5.0,1.0,4.0,
+8,bayside - littleneck,Queens,2018,3.0,11.0,4.0,6.0,1.0,3.0,
+9,bayside - littleneck,Queens,2019,2.0,7.0,2.0,4.0,1.0,6.0,2.0
+10,bayside - littleneck,Queens,2020,4.0,7.0,2.0,2.0,,3.0,1.0
+11,bayside - littleneck,Queens,2021,3.0,8.0,5.0,,2.0,,
+12,bedford stuyvesant - crown heights,Brooklyn,2010,15.0,50.0,24.0,3.0,7.0,,
+13,bedford stuyvesant - crown heights,Brooklyn,2011,34.0,67.0,54.0,10.0,19.0,,
+14,bedford stuyvesant - crown heights,Brooklyn,2012,27.0,69.0,34.0,12.0,35.0,,
+15,bedford stuyvesant - crown heights,Brooklyn,2013,25.0,100.0,40.0,8.0,42.0,,
+16,bedford stuyvesant - crown heights,Brooklyn,2014,38.0,94.0,36.0,18.0,57.0,,
+17,bedford stuyvesant - crown heights,Brooklyn,2015,25.0,98.0,61.0,25.0,67.0,,
+18,bedford stuyvesant - crown heights,Brooklyn,2016,24.0,94.0,51.0,14.0,43.0,,
+19,bedford stuyvesant - crown heights,Brooklyn,2017,22.0,106.0,46.0,25.0,43.0,55.0,19.0
+20,bedford stuyvesant - crown heights,Brooklyn,2018,22.0,78.0,40.0,16.0,29.0,75.0,16.0
+21,bedford stuyvesant - crown heights,Brooklyn,2019,32.0,92.0,37.0,33.0,28.0,85.0,27.0
+22,bedford stuyvesant - crown heights,Brooklyn,2020,30.0,97.0,46.0,5.0,36.0,54.0,50.0
+23,bedford stuyvesant - crown heights,Brooklyn,2021,10.0,35.0,9.0,2.0,14.0,17.0,4.0
+24,bensonhurst - bay ridge,Brooklyn,2010,7.0,23.0,9.0,4.0,4.0,,
+25,bensonhurst - bay ridge,Brooklyn,2011,16.0,40.0,17.0,11.0,4.0,,
+26,bensonhurst - bay ridge,Brooklyn,2012,11.0,28.0,19.0,8.0,6.0,,
+27,bensonhurst - bay ridge,Brooklyn,2013,9.0,27.0,16.0,7.0,3.0,,
+28,bensonhurst - bay ridge,Brooklyn,2014,5.0,36.0,30.0,18.0,5.0,,
+29,bensonhurst - bay ridge,Brooklyn,2015,19.0,28.0,20.0,14.0,12.0,,
+30,bensonhurst - bay ridge,Brooklyn,2016,11.0,31.0,14.0,4.0,5.0,,
+31,bensonhurst - bay ridge,Brooklyn,2017,10.0,33.0,11.0,10.0,6.0,18.0,2.0
+32,bensonhurst - bay ridge,Brooklyn,2018,18.0,32.0,11.0,9.0,6.0,16.0,5.0
+33,bensonhurst - bay ridge,Brooklyn,2019,6.0,33.0,9.0,7.0,5.0,14.0,10.0
+34,bensonhurst - bay ridge,Brooklyn,2020,4.0,25.0,10.0,7.0,2.0,7.0,6.0
+35,bensonhurst - bay ridge,Brooklyn,2021,7.0,54.0,2.0,2.0,1.0,4.0,
+36,borough park,Brooklyn,2010,5.0,25.0,9.0,2.0,5.0,,
+37,borough park,Brooklyn,2011,15.0,67.0,16.0,1.0,11.0,,
+38,borough park,Brooklyn,2012,13.0,62.0,11.0,4.0,4.0,,
+39,borough park,Brooklyn,2013,14.0,89.0,17.0,8.0,11.0,,
+40,borough park,Brooklyn,2014,17.0,63.0,22.0,7.0,7.0,,
+41,borough park,Brooklyn,2015,19.0,85.0,24.0,9.0,17.0,,
+42,borough park,Brooklyn,2016,14.0,40.0,21.0,1.0,9.0,,
+43,borough park,Brooklyn,2017,13.0,55.0,13.0,4.0,5.0,18.0,3.0
+44,borough park,Brooklyn,2018,10.0,56.0,21.0,11.0,8.0,20.0,3.0
+45,borough park,Brooklyn,2019,13.0,34.0,27.0,7.0,13.0,31.0,9.0
+46,borough park,Brooklyn,2020,16.0,52.0,12.0,3.0,9.0,12.0,10.0
+47,borough park,Brooklyn,2021,5.0,31.0,10.0,3.0,4.0,19.0,3.0
+48,canarsie - flatlands,Brooklyn,2011,7.0,25.0,13.0,7.0,1.0,,
+49,canarsie - flatlands,Brooklyn,2012,8.0,20.0,7.0,5.0,2.0,,
+50,canarsie - flatlands,Brooklyn,2013,6.0,14.0,11.0,7.0,2.0,,
+51,canarsie - flatlands,Brooklyn,2014,5.0,19.0,18.0,13.0,2.0,,
+52,canarsie - flatlands,Brooklyn,2015,6.0,15.0,8.0,10.0,1.0,,
+53,canarsie - flatlands,Brooklyn,2016,3.0,21.0,18.0,4.0,5.0,,
+54,canarsie - flatlands,Brooklyn,2017,4.0,25.0,15.0,8.0,3.0,15.0,2.0
+55,canarsie - flatlands,Brooklyn,2018,9.0,19.0,22.0,7.0,9.0,19.0,2.0
+56,canarsie - flatlands,Brooklyn,2019,11.0,32.0,9.0,16.0,4.0,20.0,4.0
+57,canarsie - flatlands,Brooklyn,2020,8.0,16.0,15.0,3.0,6.0,18.0,14.0
+58,central harlem - morningside heights,Manhattan,2010,5.0,32.0,13.0,1.0,16.0,,
+59,central harlem - morningside heights,Manhattan,2011,25.0,59.0,32.0,7.0,17.0,,
+60,central harlem - morningside heights,Manhattan,2012,9.0,55.0,27.0,12.0,49.0,,
+61,central harlem - morningside heights,Manhattan,2013,16.0,35.0,30.0,7.0,15.0,,
+62,central harlem - morningside heights,Manhattan,2014,17.0,57.0,28.0,6.0,13.0,,
+63,central harlem - morningside heights,Manhattan,2015,17.0,51.0,27.0,4.0,27.0,,
+64,central harlem - morningside heights,Manhattan,2016,15.0,43.0,25.0,11.0,44.0,,
+65,central harlem - morningside heights,Manhattan,2017,14.0,51.0,23.0,3.0,28.0,21.0,8.0
+66,central harlem - morningside heights,Manhattan,2018,17.0,50.0,28.0,12.0,20.0,41.0,13.0
+67,central harlem - morningside heights,Manhattan,2019,20.0,105.0,27.0,6.0,30.0,23.0,10.0
+68,central harlem - morningside heights,Manhattan,2020,9.0,69.0,25.0,6.0,24.0,21.0,10.0
+69,central harlem - morningside heights,Manhattan,2021,7.0,51.0,18.0,,9.0,15.0,2.0
+70,chelsea - clinton,Manhattan,2010,13.0,31.0,24.0,5.0,22.0,,
+71,chelsea - clinton,Manhattan,2011,27.0,58.0,49.0,22.0,62.0,,
+72,chelsea - clinton,Manhattan,2012,20.0,78.0,62.0,27.0,62.0,,
+73,chelsea - clinton,Manhattan,2013,13.0,101.0,58.0,28.0,70.0,,
+74,chelsea - clinton,Manhattan,2014,16.0,100.0,45.0,26.0,66.0,,
+75,chelsea - clinton,Manhattan,2015,15.0,110.0,56.0,26.0,81.0,,
+76,chelsea - clinton,Manhattan,2016,12.0,77.0,52.0,26.0,66.0,,
+77,chelsea - clinton,Manhattan,2017,5.0,79.0,46.0,25.0,48.0,14.0,4.0
+78,chelsea - clinton,Manhattan,2018,15.0,72.0,55.0,52.0,63.0,29.0,5.0
+79,chelsea - clinton,Manhattan,2019,25.0,65.0,44.0,43.0,53.0,24.0,9.0
+80,chelsea - clinton,Manhattan,2020,17.0,42.0,44.0,16.0,55.0,8.0,9.0
+81,chelsea - clinton,Manhattan,2021,5.0,33.0,19.0,2.0,15.0,8.0,1.0
+82,coney island - sheepshead bay,Brooklyn,2010,9.0,27.0,20.0,2.0,11.0,,
+83,coney island - sheepshead bay,Brooklyn,2011,16.0,42.0,42.0,5.0,14.0,,
+84,coney island - sheepshead bay,Brooklyn,2012,31.0,75.0,31.0,21.0,12.0,,
+85,coney island - sheepshead bay,Brooklyn,2013,24.0,75.0,22.0,27.0,7.0,,
+86,coney island - sheepshead bay,Brooklyn,2014,10.0,44.0,38.0,36.0,6.0,,
+87,coney island - sheepshead bay,Brooklyn,2015,14.0,51.0,30.0,19.0,6.0,,
+88,coney island - sheepshead bay,Brooklyn,2016,8.0,55.0,29.0,18.0,15.0,,
+89,coney island - sheepshead bay,Brooklyn,2017,6.0,33.0,24.0,10.0,5.0,24.0,2.0
+90,coney island - sheepshead bay,Brooklyn,2018,14.0,37.0,25.0,19.0,12.0,23.0,8.0
+91,coney island - sheepshead bay,Brooklyn,2019,18.0,41.0,19.0,8.0,17.0,24.0,4.0
+92,coney island - sheepshead bay,Brooklyn,2020,15.0,32.0,20.0,5.0,8.0,21.0,14.0
+93,coney island - sheepshead bay,Brooklyn,2021,5.0,16.0,11.0,1.0,4.0,6.0,3.0
+94,crotona -tremont,Bronx,2010,12.0,15.0,9.0,1.0,5.0,,
+95,crotona -tremont,Bronx,2011,21.0,42.0,20.0,3.0,7.0,,
+96,crotona -tremont,Bronx,2012,13.0,21.0,19.0,3.0,2.0,,
+97,crotona -tremont,Bronx,2013,11.0,22.0,24.0,6.0,8.0,,
+98,crotona -tremont,Bronx,2014,15.0,28.0,22.0,5.0,12.0,,
+99,crotona -tremont,Bronx,2015,8.0,44.0,23.0,6.0,5.0,,
+100,crotona -tremont,Bronx,2016,14.0,37.0,21.0,3.0,4.0,,
+101,crotona -tremont,Bronx,2017,13.0,38.0,23.0,3.0,7.0,24.0,2.0
+102,crotona -tremont,Bronx,2018,15.0,39.0,30.0,5.0,3.0,25.0,5.0
+103,crotona -tremont,Bronx,2019,10.0,26.0,16.0,13.0,11.0,21.0,10.0
+104,crotona -tremont,Bronx,2020,16.0,24.0,15.0,1.0,4.0,18.0,14.0
+105,crotona -tremont,Bronx,2021,5.0,18.0,1.0,1.0,4.0,6.0,4.0
+106,downtown - heights - slope,Bronx,2021,1.0,,,,,,
+107,downtown - heights - slope,Brooklyn,2010,10.0,23.0,15.0,2.0,9.0,,
+108,downtown - heights - slope,Brooklyn,2011,14.0,59.0,33.0,9.0,21.0,,
+109,downtown - heights - slope,Brooklyn,2012,21.0,75.0,34.0,20.0,29.0,,
+110,downtown - heights - slope,Brooklyn,2013,15.0,76.0,41.0,17.0,35.0,,
+111,downtown - heights - slope,Brooklyn,2014,11.0,78.0,23.0,6.0,57.0,,
+112,downtown - heights - slope,Brooklyn,2015,7.0,64.0,22.0,17.0,50.0,,
+113,downtown - heights - slope,Brooklyn,2016,14.0,57.0,30.0,10.0,32.0,,
+114,downtown - heights - slope,Brooklyn,2017,18.0,81.0,32.0,7.0,24.0,23.0,5.0
+115,downtown - heights - slope,Brooklyn,2018,11.0,70.0,31.0,9.0,39.0,22.0,6.0
+116,downtown - heights - slope,Brooklyn,2019,12.0,35.0,25.0,24.0,33.0,34.0,12.0
+117,downtown - heights - slope,Brooklyn,2020,13.0,53.0,27.0,8.0,34.0,35.0,15.0
+118,downtown - heights - slope,Brooklyn,2021,12.0,49.0,24.0,5.0,12.0,11.0,1.0
+119,east flatbush - flatbush,Brooklyn,2010,10.0,40.0,13.0,1.0,5.0,,
+120,east flatbush - flatbush,Brooklyn,2011,22.0,94.0,49.0,7.0,14.0,,
+121,east flatbush - flatbush,Brooklyn,2012,19.0,58.0,31.0,7.0,6.0,,
+122,east flatbush - flatbush,Brooklyn,2013,12.0,81.0,23.0,11.0,8.0,,
+123,east flatbush - flatbush,Brooklyn,2014,35.0,96.0,32.0,13.0,23.0,,
+124,east flatbush - flatbush,Brooklyn,2015,21.0,102.0,37.0,5.0,25.0,,
+125,east flatbush - flatbush,Brooklyn,2016,35.0,79.0,37.0,10.0,31.0,,
+126,east flatbush - flatbush,Brooklyn,2017,24.0,122.0,35.0,8.0,18.0,46.0,8.0
+127,east flatbush - flatbush,Brooklyn,2018,35.0,131.0,46.0,8.0,21.0,53.0,5.0
+128,east flatbush - flatbush,Brooklyn,2019,28.0,57.0,35.0,11.0,16.0,44.0,18.0
+129,east flatbush - flatbush,Brooklyn,2020,15.0,63.0,28.0,8.0,17.0,50.0,22.0
+130,east flatbush - flatbush,Brooklyn,2021,5.0,66.0,12.0,3.0,3.0,37.0,7.0
+131,east harlem,Manhattan,2010,1.0,12.0,11.0,,15.0,,
+132,east harlem,Manhattan,2011,7.0,25.0,21.0,2.0,2.0,,
+133,east harlem,Manhattan,2012,8.0,18.0,17.0,2.0,9.0,,
+134,east harlem,Manhattan,2013,6.0,33.0,37.0,4.0,4.0,,
+135,east harlem,Manhattan,2014,2.0,35.0,16.0,3.0,7.0,,
+136,east harlem,Manhattan,2015,3.0,33.0,29.0,2.0,12.0,,
+137,east harlem,Manhattan,2016,5.0,22.0,10.0,2.0,5.0,,
+138,east harlem,Manhattan,2017,5.0,25.0,20.0,2.0,19.0,13.0,5.0
+139,east harlem,Manhattan,2018,7.0,28.0,21.0,12.0,8.0,16.0,2.0
+140,east harlem,Manhattan,2019,8.0,24.0,26.0,4.0,14.0,27.0,2.0
+141,east harlem,Manhattan,2020,6.0,26.0,26.0,1.0,4.0,17.0,6.0
+142,east harlem,Manhattan,2021,3.0,14.0,8.0,,4.0,10.0,2.0
+143,east new york,Brooklyn,2010,6.0,15.0,8.0,,4.0,,
+144,east new york,Brooklyn,2011,13.0,23.0,18.0,4.0,5.0,,
+145,east new york,Brooklyn,2012,9.0,12.0,15.0,3.0,1.0,,
+146,east new york,Brooklyn,2013,9.0,17.0,12.0,10.0,5.0,,
+147,east new york,Brooklyn,2014,10.0,19.0,16.0,7.0,5.0,,
+148,east new york,Brooklyn,2015,8.0,16.0,18.0,2.0,6.0,,
+149,east new york,Brooklyn,2016,7.0,16.0,17.0,6.0,5.0,,
+150,east new york,Brooklyn,2017,15.0,28.0,22.0,11.0,7.0,35.0,7.0
+151,east new york,Brooklyn,2018,16.0,27.0,18.0,4.0,11.0,43.0,6.0
+152,east new york,Brooklyn,2019,11.0,14.0,13.0,3.0,8.0,39.0,9.0
+153,east new york,Brooklyn,2020,10.0,24.0,13.0,4.0,7.0,16.0,8.0
+154,east new york,Brooklyn,2021,3.0,14.0,2.0,1.0,,12.0,3.0
+155,flushing - clearview,Queens,2010,4.0,20.0,8.0,7.0,3.0,,
+156,flushing - clearview,Queens,2011,15.0,24.0,20.0,5.0,6.0,,
+157,flushing - clearview,Queens,2012,8.0,22.0,19.0,3.0,3.0,,
+158,flushing - clearview,Queens,2013,9.0,24.0,22.0,5.0,5.0,,
+159,flushing - clearview,Queens,2014,5.0,39.0,23.0,5.0,6.0,,
+160,flushing - clearview,Queens,2015,9.0,28.0,26.0,4.0,6.0,,
+161,flushing - clearview,Queens,2016,3.0,30.0,15.0,,6.0,,
+162,flushing - clearview,Queens,2017,5.0,27.0,11.0,6.0,7.0,1.0,1.0
+163,flushing - clearview,Queens,2018,6.0,12.0,30.0,9.0,7.0,8.0,1.0
+164,flushing - clearview,Queens,2019,8.0,32.0,29.0,5.0,5.0,7.0,6.0
+165,flushing - clearview,Queens,2020,9.0,24.0,14.0,6.0,8.0,15.0,8.0
+166,flushing - clearview,Queens,2021,1.0,19.0,4.0,,1.0,3.0,
+167,fordham - bronx pk,Bronx,2010,9.0,28.0,11.0,,,,
+168,fordham - bronx pk,Bronx,2011,18.0,55.0,21.0,5.0,8.0,,
+169,fordham - bronx pk,Bronx,2012,26.0,51.0,30.0,4.0,7.0,,
+170,fordham - bronx pk,Bronx,2013,18.0,44.0,30.0,14.0,8.0,,
+171,fordham - bronx pk,Bronx,2014,25.0,64.0,21.0,10.0,15.0,,
+172,fordham - bronx pk,Bronx,2015,27.0,65.0,29.0,3.0,9.0,,
+173,fordham - bronx pk,Bronx,2016,26.0,33.0,29.0,5.0,6.0,,
+174,fordham - bronx pk,Bronx,2017,18.0,52.0,25.0,9.0,5.0,30.0,7.0
+175,fordham - bronx pk,Bronx,2018,25.0,38.0,22.0,12.0,8.0,29.0,4.0
+176,fordham - bronx pk,Bronx,2019,14.0,38.0,32.0,7.0,11.0,42.0,3.0
+177,fordham - bronx pk,Bronx,2020,17.0,30.0,23.0,3.0,12.0,28.0,12.0
+178,fordham - bronx pk,Bronx,2021,3.0,43.0,5.0,,2.0,12.0,2.0
+179,fresh meadows,Queens,2010,1.0,8.0,5.0,,2.0,,
+180,fresh meadows,Queens,2011,7.0,19.0,7.0,,,,
+181,fresh meadows,Queens,2013,4.0,8.0,8.0,2.0,1.0,,
+182,fresh meadows,Queens,2014,3.0,9.0,1.0,2.0,3.0,,
+183,fresh meadows,Queens,2015,4.0,11.0,9.0,,,,
+184,fresh meadows,Queens,2016,5.0,11.0,20.0,3.0,,,
+185,fresh meadows,Queens,2017,4.0,14.0,6.0,4.0,1.0,8.0,
+186,fresh meadows,Queens,2018,5.0,7.0,8.0,8.0,1.0,9.0,
+187,fresh meadows,Queens,2019,3.0,11.0,3.0,2.0,1.0,7.0,
+188,fresh meadows,Queens,2020,4.0,17.0,8.0,,1.0,4.0,3.0
+189,fresh meadows,Queens,2021,4.0,4.0,1.0,,,,
+190,gramercy park - murray hill,Manhattan,2010,3.0,32.0,16.0,6.0,18.0,,
+191,gramercy park - murray hill,Manhattan,2011,13.0,74.0,47.0,13.0,33.0,,
+192,gramercy park - murray hill,Manhattan,2012,17.0,56.0,29.0,14.0,38.0,,
+193,gramercy park - murray hill,Manhattan,2013,11.0,53.0,33.0,15.0,32.0,,
+194,gramercy park - murray hill,Manhattan,2014,15.0,51.0,396.0,17.0,44.0,,
+195,gramercy park - murray hill,Manhattan,2015,13.0,86.0,41.0,7.0,34.0,,
+196,gramercy park - murray hill,Manhattan,2016,12.0,67.0,36.0,15.0,40.0,,
+197,gramercy park - murray hill,Manhattan,2017,22.0,64.0,34.0,7.0,47.0,10.0,
+198,gramercy park - murray hill,Manhattan,2018,21.0,59.0,56.0,11.0,41.0,6.0,5.0
+199,gramercy park - murray hill,Manhattan,2019,11.0,30.0,43.0,14.0,30.0,9.0,4.0
+200,gramercy park - murray hill,Manhattan,2020,13.0,19.0,56.0,5.0,46.0,12.0,8.0
+201,gramercy park - murray hill,Manhattan,2021,9.0,16.0,12.0,2.0,7.0,6.0,5.0
+202,greenpoint,Brooklyn,2010,3.0,19.0,3.0,,4.0,,
+203,greenpoint,Brooklyn,2011,8.0,44.0,12.0,8.0,5.0,,
+204,greenpoint,Brooklyn,2012,4.0,24.0,13.0,3.0,15.0,,
+205,greenpoint,Brooklyn,2013,6.0,27.0,4.0,4.0,17.0,,
+206,greenpoint,Brooklyn,2014,3.0,42.0,18.0,3.0,28.0,,
+207,greenpoint,Brooklyn,2015,8.0,26.0,39.0,2.0,24.0,,
+208,greenpoint,Brooklyn,2016,4.0,17.0,5.0,6.0,20.0,,
+209,greenpoint,Brooklyn,2017,7.0,38.0,15.0,4.0,10.0,1.0,1.0
+210,greenpoint,Brooklyn,2018,9.0,33.0,43.0,6.0,31.0,9.0,1.0
+211,greenpoint,Brooklyn,2019,10.0,26.0,36.0,5.0,21.0,16.0,10.0
+212,greenpoint,Brooklyn,2020,2.0,17.0,64.0,3.0,14.0,10.0,8.0
+213,greenpoint,Brooklyn,2021,5.0,22.0,7.0,1.0,7.0,9.0,3.0
+214,greenwich village - soho,Manhattan,2010,1.0,23.0,8.0,2.0,17.0,,
+215,greenwich village - soho,Manhattan,2011,14.0,57.0,18.0,7.0,37.0,,
+216,greenwich village - soho,Manhattan,2012,9.0,37.0,20.0,19.0,37.0,,
+217,greenwich village - soho,Manhattan,2013,5.0,41.0,21.0,14.0,35.0,,
+218,greenwich village - soho,Manhattan,2014,7.0,36.0,16.0,10.0,45.0,,
+219,greenwich village - soho,Manhattan,2015,7.0,36.0,24.0,10.0,30.0,,
+220,greenwich village - soho,Manhattan,2016,4.0,44.0,20.0,4.0,44.0,,
+221,greenwich village - soho,Manhattan,2017,4.0,49.0,20.0,10.0,45.0,3.0,1.0
+222,greenwich village - soho,Manhattan,2018,15.0,40.0,21.0,14.0,28.0,7.0,2.0
+223,greenwich village - soho,Manhattan,2019,15.0,24.0,25.0,13.0,46.0,20.0,5.0
+224,greenwich village - soho,Manhattan,2020,14.0,17.0,11.0,7.0,19.0,3.0,2.0
+225,greenwich village - soho,Manhattan,2021,4.0,12.0,8.0,,10.0,1.0,4.0
+226,high bridge - morrisania,Bronx,2010,2.0,11.0,11.0,,3.0,,
+227,high bridge - morrisania,Bronx,2011,10.0,27.0,13.0,1.0,7.0,,
+228,high bridge - morrisania,Bronx,2012,7.0,24.0,49.0,7.0,9.0,,
+229,high bridge - morrisania,Bronx,2013,11.0,33.0,30.0,7.0,9.0,,
+230,high bridge - morrisania,Bronx,2014,24.0,43.0,23.0,5.0,5.0,,
+231,high bridge - morrisania,Bronx,2015,18.0,44.0,24.0,4.0,8.0,,
+232,high bridge - morrisania,Bronx,2016,10.0,41.0,26.0,3.0,12.0,,
+233,high bridge - morrisania,Bronx,2017,12.0,44.0,21.0,8.0,7.0,29.0,5.0
+234,high bridge - morrisania,Bronx,2018,10.0,56.0,45.0,5.0,4.0,21.0,4.0
+235,high bridge - morrisania,Bronx,2019,13.0,37.0,48.0,7.0,5.0,29.0,13.0
+236,high bridge - morrisania,Bronx,2020,9.0,21.0,38.0,4.0,6.0,21.0,14.0
+237,high bridge - morrisania,Bronx,2021,7.0,22.0,8.0,2.0,2.0,9.0,4.0
+238,hunts point - mott haven,Bronx,2010,6.0,9.0,7.0,1.0,1.0,,
+239,hunts point - mott haven,Bronx,2011,11.0,35.0,15.0,3.0,1.0,,
+240,hunts point - mott haven,Bronx,2012,7.0,20.0,26.0,1.0,2.0,,
+241,hunts point - mott haven,Bronx,2013,5.0,25.0,13.0,2.0,4.0,,
+242,hunts point - mott haven,Bronx,2014,8.0,22.0,14.0,4.0,7.0,,
+243,hunts point - mott haven,Bronx,2015,10.0,28.0,20.0,2.0,6.0,,
+244,hunts point - mott haven,Bronx,2016,7.0,50.0,26.0,4.0,3.0,,
+245,hunts point - mott haven,Bronx,2017,7.0,25.0,10.0,5.0,6.0,16.0,1.0
+246,hunts point - mott haven,Bronx,2018,10.0,45.0,18.0,4.0,6.0,17.0,4.0
+247,hunts point - mott haven,Bronx,2019,12.0,32.0,25.0,8.0,4.0,15.0,4.0
+248,hunts point - mott haven,Bronx,2020,6.0,18.0,16.0,1.0,5.0,16.0,7.0
+249,hunts point - mott haven,Bronx,2021,3.0,11.0,3.0,,,5.0,
+250,jamaica,Queens,2010,7.0,15.0,10.0,1.0,2.0,,
+251,jamaica,Queens,2011,12.0,36.0,26.0,9.0,1.0,,
+252,jamaica,Queens,2012,13.0,39.0,19.0,9.0,1.0,,
+253,jamaica,Queens,2013,18.0,35.0,24.0,10.0,2.0,,
+254,jamaica,Queens,2014,13.0,43.0,16.0,10.0,3.0,,
+255,jamaica,Queens,2015,8.0,43.0,21.0,11.0,11.0,,
+256,jamaica,Queens,2016,11.0,42.0,22.0,12.0,6.0,,
+257,jamaica,Queens,2017,12.0,42.0,26.0,8.0,7.0,31.0,9.0
+258,jamaica,Queens,2018,9.0,36.0,27.0,9.0,3.0,35.0,6.0
+259,jamaica,Queens,2019,26.0,19.0,20.0,13.0,4.0,36.0,15.0
+260,jamaica,Queens,2020,8.0,38.0,12.0,7.0,4.0,33.0,23.0
+261,jamaica,Queens,2021,7.0,17.0,7.0,3.0,2.0,12.0,9.0
+262,kingsbridge - riverdale,Bronx,2010,3.0,11.0,6.0,1.0,,,
+263,kingsbridge - riverdale,Bronx,2011,9.0,23.0,19.0,,2.0,,
+264,kingsbridge - riverdale,Bronx,2012,4.0,19.0,7.0,1.0,1.0,,
+265,kingsbridge - riverdale,Bronx,2013,11.0,24.0,13.0,2.0,,,
+266,kingsbridge - riverdale,Bronx,2014,3.0,20.0,9.0,1.0,4.0,,
+267,kingsbridge - riverdale,Bronx,2015,8.0,22.0,15.0,7.0,3.0,,
+268,kingsbridge - riverdale,Bronx,2016,3.0,15.0,13.0,3.0,4.0,,
+269,kingsbridge - riverdale,Bronx,2017,6.0,28.0,11.0,,9.0,8.0,3.0
+270,kingsbridge - riverdale,Bronx,2018,12.0,21.0,6.0,8.0,5.0,16.0,3.0
+271,kingsbridge - riverdale,Bronx,2019,11.0,17.0,15.0,2.0,3.0,8.0,2.0
+272,kingsbridge - riverdale,Bronx,2020,6.0,17.0,18.0,5.0,1.0,7.0,2.0
+273,kingsbridge - riverdale,Bronx,2021,4.0,9.0,7.0,,2.0,4.0,1.0
+274,long island city - astoria,Queens,2010,4.0,26.0,10.0,2.0,6.0,,
+275,long island city - astoria,Queens,2011,10.0,51.0,23.0,4.0,9.0,,
+276,long island city - astoria,Queens,2012,12.0,45.0,24.0,5.0,8.0,,
+277,long island city - astoria,Queens,2013,9.0,41.0,19.0,13.0,8.0,,
+278,long island city - astoria,Queens,2014,11.0,49.0,20.0,11.0,15.0,,
+279,long island city - astoria,Queens,2015,12.0,50.0,19.0,8.0,12.0,,
+280,long island city - astoria,Queens,2016,15.0,47.0,19.0,6.0,19.0,,
+281,long island city - astoria,Queens,2017,10.0,83.0,18.0,4.0,9.0,16.0,3.0
+282,long island city - astoria,Queens,2018,18.0,66.0,45.0,8.0,13.0,21.0,2.0
+283,long island city - astoria,Queens,2019,13.0,54.0,18.0,10.0,12.0,16.0,6.0
+284,long island city - astoria,Queens,2020,10.0,47.0,18.0,5.0,16.0,15.0,8.0
+285,long island city - astoria,Queens,2021,8.0,29.0,10.0,5.0,5.0,6.0,2.0
+286,lower east side,Manhattan,2010,3.0,10.0,6.0,1.0,6.0,,
+287,lower east side,Manhattan,2011,3.0,15.0,15.0,9.0,10.0,,
+288,lower east side,Manhattan,2012,2.0,17.0,8.0,,16.0,,
+289,lower east side,Manhattan,2013,3.0,13.0,4.0,9.0,8.0,,
+290,lower east side,Manhattan,2014,5.0,16.0,5.0,4.0,12.0,,
+291,lower east side,Manhattan,2015,13.0,27.0,17.0,7.0,25.0,,
+292,lower east side,Manhattan,2016,4.0,32.0,12.0,4.0,60.0,,
+293,lower east side,Manhattan,2017,8.0,35.0,7.0,6.0,14.0,10.0,
+294,lower east side,Manhattan,2018,7.0,12.0,7.0,1.0,12.0,6.0,2.0
+295,lower east side,Manhattan,2019,2.0,17.0,15.0,4.0,7.0,15.0,8.0
+296,lower east side,Manhattan,2020,6.0,11.0,7.0,4.0,8.0,6.0,7.0
+297,lower east side,Manhattan,2021,1.0,10.0,1.0,,1.0,3.0,1.0
+298,lower manhattan,Manhattan,2011,6.0,15.0,23.0,4.0,2.0,,
+299,lower manhattan,Manhattan,2012,4.0,31.0,30.0,9.0,3.0,,
+300,lower manhattan,Manhattan,2013,2.0,26.0,18.0,9.0,11.0,,
+301,lower manhattan,Manhattan,2014,3.0,16.0,16.0,4.0,14.0,,
+302,lower manhattan,Manhattan,2015,4.0,18.0,15.0,2.0,8.0,,
+303,lower manhattan,Manhattan,2016,2.0,16.0,12.0,1.0,8.0,,
+304,lower manhattan,Manhattan,2017,3.0,20.0,13.0,4.0,9.0,3.0,
+305,lower manhattan,Manhattan,2018,5.0,20.0,33.0,8.0,14.0,5.0,1.0
+306,lower manhattan,Manhattan,2019,10.0,10.0,10.0,6.0,6.0,5.0,3.0
+307,lower manhattan,Manhattan,2020,4.0,6.0,7.0,2.0,2.0,4.0,
+308,lower manhattan,Manhattan,2021,1.0,7.0,2.0,,2.0,3.0,1.0
+309,northeast bronx,Bronx,2010,5.0,14.0,14.0,1.0,,,
+310,northeast bronx,Bronx,2011,7.0,25.0,18.0,2.0,4.0,,
+311,northeast bronx,Bronx,2012,9.0,17.0,16.0,1.0,2.0,,
+312,northeast bronx,Bronx,2013,13.0,26.0,19.0,3.0,1.0,,
+313,northeast bronx,Bronx,2014,14.0,20.0,11.0,9.0,2.0,,
+314,northeast bronx,Bronx,2015,12.0,21.0,19.0,2.0,6.0,,
+315,northeast bronx,Bronx,2016,10.0,17.0,12.0,10.0,2.0,,
+316,northeast bronx,Bronx,2017,4.0,40.0,13.0,4.0,4.0,21.0,9.0
+317,northeast bronx,Bronx,2018,11.0,29.0,9.0,4.0,3.0,28.0,3.0
+318,northeast bronx,Bronx,2019,10.0,37.0,16.0,2.0,4.0,21.0,19.0
+319,northeast bronx,Bronx,2020,9.0,27.0,9.0,1.0,,26.0,14.0
+320,northeast bronx,Bronx,2021,2.0,3.0,3.0,3.0,4.0,4.0,
+321,pelham - throgs neck,Bronx,2010,11.0,23.0,9.0,,4.0,,
+322,pelham - throgs neck,Bronx,2011,23.0,53.0,21.0,3.0,8.0,,
+323,pelham - throgs neck,Bronx,2012,8.0,49.0,21.0,8.0,4.0,,
+324,pelham - throgs neck,Bronx,2013,26.0,40.0,28.0,9.0,8.0,,
+325,pelham - throgs neck,Bronx,2014,23.0,41.0,23.0,14.0,10.0,,
+326,pelham - throgs neck,Bronx,2015,28.0,52.0,27.0,4.0,12.0,,
+327,pelham - throgs neck,Bronx,2016,27.0,38.0,29.0,7.0,11.0,,
+328,pelham - throgs neck,Bronx,2017,25.0,33.0,15.0,8.0,12.0,19.0,2.0
+329,pelham - throgs neck,Bronx,2018,14.0,32.0,28.0,6.0,13.0,29.0,9.0
+330,pelham - throgs neck,Bronx,2019,29.0,31.0,30.0,20.0,10.0,37.0,11.0
+331,pelham - throgs neck,Bronx,2020,15.0,35.0,30.0,6.0,9.0,17.0,17.0
+332,pelham - throgs neck,Bronx,2021,24.0,33.0,6.0,1.0,2.0,12.0,1.0
+333,port richmond,Staten Island,2010,1.0,1.0,2.0,1.0,,,
+334,port richmond,Staten Island,2011,5.0,8.0,6.0,3.0,,,
+335,port richmond,Staten Island,2012,1.0,8.0,4.0,1.0,,,
+336,port richmond,Staten Island,2013,2.0,4.0,6.0,3.0,2.0,,
+337,port richmond,Staten Island,2014,3.0,1.0,1.0,7.0,2.0,,
+338,port richmond,Staten Island,2015,2.0,3.0,7.0,9.0,1.0,,
+339,port richmond,Staten Island,2016,3.0,5.0,4.0,12.0,,,
+340,port richmond,Staten Island,2017,1.0,4.0,4.0,4.0,1.0,8.0,
+341,port richmond,Staten Island,2018,1.0,7.0,2.0,12.0,1.0,2.0,1.0
+342,port richmond,Staten Island,2019,2.0,7.0,4.0,4.0,2.0,12.0,5.0
+343,port richmond,Staten Island,2021,4.0,1.0,,,,2.0,
+344,ridgewood -forest hills,Queens,2010,7.0,20.0,8.0,2.0,7.0,,
+345,ridgewood -forest hills,Queens,2011,10.0,37.0,23.0,4.0,9.0,,
+346,ridgewood -forest hills,Queens,2012,16.0,28.0,13.0,11.0,16.0,,
+347,ridgewood -forest hills,Queens,2013,15.0,49.0,16.0,9.0,3.0,,
+348,ridgewood -forest hills,Queens,2014,16.0,53.0,18.0,5.0,15.0,,
+349,ridgewood -forest hills,Queens,2015,16.0,58.0,19.0,10.0,9.0,,
+350,ridgewood -forest hills,Queens,2016,17.0,30.0,14.0,8.0,6.0,,
+351,ridgewood -forest hills,Queens,2017,9.0,43.0,19.0,10.0,16.0,13.0,2.0
+352,ridgewood -forest hills,Queens,2018,14.0,37.0,18.0,11.0,8.0,11.0,12.0
+353,ridgewood -forest hills,Queens,2019,18.0,25.0,29.0,3.0,15.0,14.0,11.0
+354,ridgewood -forest hills,Queens,2020,4.0,22.0,19.0,2.0,11.0,18.0,9.0
+355,ridgewood -forest hills,Queens,2021,8.0,38.0,40.0,,2.0,9.0,3.0
+356,rockaway,Queens,2010,1.0,10.0,3.0,1.0,2.0,,
+357,rockaway,Queens,2011,10.0,11.0,12.0,2.0,2.0,,
+358,rockaway,Queens,2012,15.0,20.0,20.0,16.0,7.0,,
+359,rockaway,Queens,2013,11.0,23.0,31.0,27.0,7.0,,
+360,rockaway,Queens,2014,3.0,17.0,17.0,20.0,1.0,,
+361,rockaway,Queens,2015,6.0,15.0,8.0,7.0,4.0,,
+362,rockaway,Queens,2016,12.0,24.0,6.0,3.0,7.0,,
+363,rockaway,Queens,2017,15.0,25.0,10.0,4.0,3.0,10.0,2.0
+364,rockaway,Queens,2018,9.0,29.0,10.0,11.0,4.0,13.0,7.0
+365,rockaway,Queens,2019,15.0,26.0,6.0,4.0,6.0,11.0,11.0
+366,rockaway,Queens,2020,5.0,25.0,21.0,1.0,4.0,9.0,8.0
+367,rockaway,Queens,2021,9.0,16.0,5.0,,4.0,5.0,5.0
+368,south beach - tottenville,Staten Island,2010,8.0,4.0,5.0,1.0,1.0,,
+369,south beach - tottenville,Staten Island,2011,4.0,11.0,12.0,11.0,,,
+370,south beach - tottenville,Staten Island,2012,5.0,8.0,11.0,3.0,1.0,,
+371,south beach - tottenville,Staten Island,2013,9.0,7.0,12.0,23.0,1.0,,
+372,south beach - tottenville,Staten Island,2014,5.0,6.0,4.0,34.0,,,
+373,south beach - tottenville,Staten Island,2015,6.0,17.0,6.0,17.0,,,
+374,south beach - tottenville,Staten Island,2016,6.0,9.0,8.0,20.0,1.0,,
+375,south beach - tottenville,Staten Island,2017,4.0,19.0,17.0,22.0,1.0,9.0,3.0
+376,south beach - tottenville,Staten Island,2018,1.0,14.0,10.0,14.0,,15.0,2.0
+377,south beach - tottenville,Staten Island,2019,5.0,14.0,6.0,18.0,1.0,12.0,23.0
+378,south beach - tottenville,Staten Island,2020,3.0,9.0,274.0,13.0,1.0,10.0,12.0
+379,southeast queens,Queens,2010,4.0,5.0,5.0,1.0,,,
+380,southeast queens,Queens,2011,4.0,9.0,7.0,1.0,1.0,,
+381,southeast queens,Queens,2012,4.0,12.0,10.0,3.0,,,
+382,southeast queens,Queens,2013,3.0,32.0,8.0,4.0,1.0,,
+383,southeast queens,Queens,2014,3.0,12.0,8.0,6.0,3.0,,
+384,southeast queens,Queens,2015,8.0,12.0,6.0,5.0,,,
+385,southeast queens,Queens,2016,5.0,20.0,5.0,3.0,,,
+386,southeast queens,Queens,2017,3.0,12.0,2.0,1.0,,16.0,1.0
+387,southeast queens,Queens,2018,10.0,22.0,4.0,12.0,,15.0,4.0
+388,southeast queens,Queens,2019,4.0,126.0,8.0,5.0,,18.0,7.0
+389,southeast queens,Queens,2020,4.0,7.0,4.0,2.0,5.0,12.0,10.0
+390,southeast queens,Queens,2021,3.0,9.0,1.0,,,6.0,1.0
+391,southwest queens,Queens,2010,9.0,15.0,4.0,,4.0,,
+392,southwest queens,Queens,2011,18.0,36.0,13.0,6.0,2.0,,
+393,southwest queens,Queens,2012,15.0,39.0,11.0,9.0,5.0,,
+394,southwest queens,Queens,2013,8.0,23.0,12.0,14.0,8.0,,
+395,southwest queens,Queens,2014,12.0,26.0,18.0,28.0,3.0,,
+396,southwest queens,Queens,2015,17.0,62.0,14.0,16.0,7.0,,
+397,southwest queens,Queens,2016,14.0,18.0,10.0,14.0,7.0,,
+398,southwest queens,Queens,2017,13.0,20.0,12.0,21.0,3.0,15.0,1.0
+399,southwest queens,Queens,2018,7.0,27.0,18.0,8.0,4.0,21.0,2.0
+400,southwest queens,Queens,2019,13.0,77.0,16.0,11.0,2.0,30.0,10.0
+401,southwest queens,Queens,2020,9.0,55.0,13.0,7.0,6.0,14.0,11.0
+402,southwest queens,Queens,2021,4.0,22.0,6.0,5.0,3.0,8.0,5.0
+403,stapleton - st. george,Staten Island,2010,4.0,5.0,5.0,,1.0,,
+404,stapleton - st. george,Staten Island,2011,9.0,17.0,10.0,4.0,2.0,,
+405,stapleton - st. george,Staten Island,2012,6.0,13.0,10.0,6.0,2.0,,
+406,stapleton - st. george,Staten Island,2013,6.0,15.0,8.0,12.0,1.0,,
+407,stapleton - st. george,Staten Island,2014,7.0,12.0,6.0,17.0,4.0,,
+408,stapleton - st. george,Staten Island,2015,8.0,18.0,9.0,9.0,2.0,,
+409,stapleton - st. george,Staten Island,2016,11.0,81.0,14.0,7.0,3.0,,
+410,stapleton - st. george,Staten Island,2017,15.0,82.0,14.0,10.0,3.0,20.0,3.0
+411,stapleton - st. george,Staten Island,2018,9.0,148.0,10.0,6.0,2.0,19.0,5.0
+412,stapleton - st. george,Staten Island,2019,12.0,52.0,13.0,9.0,2.0,15.0,14.0
+413,stapleton - st. george,Staten Island,2020,8.0,48.0,15.0,7.0,1.0,17.0,17.0
+414,stapleton - st. george,Staten Island,2021,1.0,14.0,7.0,2.0,,7.0,2.0
+415,sunset park,Brooklyn,2010,3.0,6.0,1.0,,2.0,,
+416,sunset park,Brooklyn,2011,5.0,10.0,6.0,1.0,8.0,,
+417,sunset park,Brooklyn,2012,8.0,13.0,9.0,9.0,4.0,,
+418,sunset park,Brooklyn,2013,2.0,16.0,9.0,4.0,2.0,,
+419,sunset park,Brooklyn,2014,13.0,26.0,6.0,2.0,8.0,,
+420,sunset park,Brooklyn,2015,6.0,14.0,8.0,2.0,4.0,,
+421,sunset park,Brooklyn,2016,5.0,14.0,4.0,4.0,1.0,,
+422,sunset park,Brooklyn,2017,4.0,16.0,8.0,3.0,3.0,6.0,1.0
+423,sunset park,Brooklyn,2018,5.0,16.0,7.0,3.0,3.0,15.0,4.0
+424,sunset park,Brooklyn,2019,4.0,10.0,3.0,2.0,,6.0,6.0
+425,sunset park,Brooklyn,2021,1.0,8.0,1.0,1.0,1.0,2.0,1.0
+426,union square - lower east side,Manhattan,2010,3.0,18.0,9.0,1.0,25.0,,
+427,union square - lower east side,Manhattan,2011,12.0,60.0,20.0,4.0,46.0,,
+428,union square - lower east side,Manhattan,2012,7.0,61.0,18.0,10.0,37.0,,
+429,union square - lower east side,Manhattan,2013,9.0,49.0,26.0,7.0,36.0,,
+430,union square - lower east side,Manhattan,2014,6.0,35.0,25.0,8.0,51.0,,
+431,union square - lower east side,Manhattan,2015,8.0,63.0,25.0,4.0,42.0,,
+432,union square - lower east side,Manhattan,2016,9.0,43.0,22.0,7.0,77.0,,
+433,union square - lower east side,Manhattan,2017,12.0,37.0,19.0,3.0,35.0,14.0,
+434,union square - lower east side,Manhattan,2018,16.0,50.0,20.0,7.0,35.0,13.0,2.0
+435,union square - lower east side,Manhattan,2019,13.0,33.0,25.0,7.0,28.0,13.0,3.0
+436,union square - lower east side,Manhattan,2020,7.0,31.0,13.0,2.0,20.0,8.0,4.0
+437,union square - lower east side,Manhattan,2021,7.0,20.0,10.0,3.0,8.0,5.0,1.0
+438,upper east side,Manhattan,2010,3.0,24.0,10.0,2.0,10.0,,
+439,upper east side,Manhattan,2011,12.0,51.0,30.0,1.0,12.0,,
+440,upper east side,Manhattan,2012,12.0,68.0,25.0,7.0,37.0,,
+441,upper east side,Manhattan,2013,3.0,63.0,31.0,6.0,25.0,,
+442,upper east side,Manhattan,2014,4.0,42.0,12.0,3.0,21.0,,
+443,upper east side,Manhattan,2015,13.0,73.0,26.0,4.0,42.0,,
+444,upper east side,Manhattan,2016,10.0,52.0,31.0,4.0,30.0,,
+445,upper east side,Manhattan,2017,4.0,41.0,19.0,9.0,34.0,11.0,1.0
+446,upper east side,Manhattan,2018,16.0,39.0,21.0,10.0,22.0,7.0,2.0
+447,upper east side,Manhattan,2019,15.0,40.0,31.0,4.0,18.0,5.0,3.0
+448,upper east side,Manhattan,2020,15.0,39.0,18.0,1.0,24.0,11.0,1.0
+449,upper east side,Manhattan,2021,2.0,18.0,1.0,2.0,7.0,1.0,2.0
+450,upper west side,Manhattan,2010,10.0,42.0,25.0,3.0,14.0,,
+451,upper west side,Manhattan,2011,33.0,80.0,35.0,7.0,37.0,,
+452,upper west side,Manhattan,2012,15.0,76.0,31.0,10.0,50.0,,
+453,upper west side,Manhattan,2013,27.0,100.0,20.0,12.0,34.0,,
+454,upper west side,Manhattan,2014,26.0,79.0,38.0,9.0,47.0,,
+455,upper west side,Manhattan,2015,22.0,142.0,49.0,4.0,35.0,,
+456,upper west side,Manhattan,2016,27.0,150.0,31.0,8.0,49.0,,
+457,upper west side,Manhattan,2017,14.0,126.0,43.0,15.0,46.0,10.0,1.0
+458,upper west side,Manhattan,2018,29.0,134.0,46.0,12.0,39.0,25.0,10.0
+459,upper west side,Manhattan,2019,22.0,76.0,31.0,9.0,54.0,16.0,2.0
+460,upper west side,Manhattan,2020,11.0,76.0,21.0,4.0,40.0,8.0,5.0
+461,upper west side,Manhattan,2021,6.0,42.0,8.0,1.0,13.0,8.0,
+462,washington heights,Manhattan,2010,11.0,32.0,21.0,,20.0,,
+463,washington heights,Manhattan,2011,25.0,67.0,29.0,1.0,24.0,,
+464,washington heights,Manhattan,2012,19.0,84.0,21.0,5.0,27.0,,
+465,washington heights,Manhattan,2013,23.0,263.0,30.0,6.0,22.0,,
+466,washington heights,Manhattan,2014,17.0,446.0,32.0,5.0,25.0,,
+467,washington heights,Manhattan,2015,24.0,257.0,36.0,4.0,36.0,,
+468,washington heights,Manhattan,2016,24.0,180.0,31.0,4.0,33.0,,
+469,washington heights,Manhattan,2017,15.0,110.0,32.0,2.0,43.0,17.0,1.0
+470,washington heights,Manhattan,2018,25.0,82.0,27.0,8.0,44.0,39.0,5.0
+471,washington heights,Manhattan,2019,28.0,87.0,21.0,3.0,37.0,29.0,2.0
+472,washington heights,Manhattan,2020,16.0,56.0,14.0,2.0,15.0,22.0,17.0
+473,washington heights,Manhattan,2021,12.0,35.0,7.0,2.0,5.0,16.0,5.0
+474,west queens,Queens,2010,10.0,35.0,10.0,2.0,4.0,,
+475,west queens,Queens,2011,19.0,48.0,22.0,6.0,5.0,,
+476,west queens,Queens,2012,22.0,44.0,34.0,8.0,7.0,,
+477,west queens,Queens,2013,17.0,61.0,32.0,7.0,5.0,,
+478,west queens,Queens,2014,17.0,50.0,26.0,4.0,10.0,,
+479,west queens,Queens,2015,15.0,50.0,36.0,6.0,11.0,,
+480,west queens,Queens,2016,18.0,46.0,32.0,7.0,10.0,,
+481,west queens,Queens,2017,24.0,43.0,30.0,8.0,8.0,21.0,3.0
+482,west queens,Queens,2018,22.0,56.0,20.0,14.0,10.0,35.0,3.0
+483,west queens,Queens,2019,12.0,43.0,21.0,6.0,6.0,19.0,9.0
+484,west queens,Queens,2020,12.0,68.0,21.0,5.0,9.0,24.0,22.0
+485,west queens,Queens,2021,9.0,27.0,5.0,3.0,1.0,10.0,2.0
+486,williamsburg - bushwick,Brooklyn,2010,9.0,22.0,13.0,1.0,8.0,,
+487,williamsburg - bushwick,Brooklyn,2011,17.0,51.0,16.0,6.0,22.0,,
+488,williamsburg - bushwick,Brooklyn,2012,13.0,30.0,17.0,6.0,27.0,,
+489,williamsburg - bushwick,Brooklyn,2013,8.0,48.0,18.0,9.0,32.0,,
+490,williamsburg - bushwick,Brooklyn,2014,8.0,36.0,12.0,8.0,22.0,,
+491,williamsburg - bushwick,Brooklyn,2015,13.0,32.0,27.0,11.0,38.0,,
+492,williamsburg - bushwick,Brooklyn,2016,13.0,39.0,17.0,2.0,30.0,,
+493,williamsburg - bushwick,Brooklyn,2017,8.0,37.0,17.0,6.0,24.0,30.0,4.0
+494,williamsburg - bushwick,Brooklyn,2018,18.0,30.0,20.0,12.0,19.0,34.0,8.0
+495,williamsburg - bushwick,Brooklyn,2019,15.0,37.0,21.0,15.0,23.0,42.0,14.0
+496,williamsburg - bushwick,Brooklyn,2020,8.0,24.0,27.0,5.0,28.0,33.0,30.0
+497,williamsburg - bushwick,Brooklyn,2021,8.0,43.0,17.0,2.0,7.0,18.0,1.0
+498,willowbrook,Staten Island,2010,1.0,3.0,2.0,1.0,1.0,,
+499,willowbrook,Staten Island,2011,1.0,9.0,5.0,4.0,,,
+500,willowbrook,Staten Island,2012,6.0,2.0,3.0,3.0,1.0,,
+501,willowbrook,Staten Island,2014,2.0,8.0,4.0,10.0,1.0,,
+502,willowbrook,Staten Island,2015,1.0,2.0,3.0,16.0,,,
+503,willowbrook,Staten Island,2016,1.0,2.0,6.0,5.0,4.0,,
+504,willowbrook,Staten Island,2018,2.0,4.0,3.0,7.0,,26.0,8.0
+505,willowbrook,Staten Island,2019,4.0,12.0,6.0,9.0,2.0,6.0,1.0
+506,willowbrook,Staten Island,2020,4.0,2.0,4.0,2.0,3.0,9.0,
+507,willowbrook,Staten Island,2021,1.0,,,3.0,1.0,,1.0
+508,canarsie - flatlands,Brooklyn,2010,,21.0,4.0,1.0,1.0,,
+509,canarsie - flatlands,Brooklyn,2021,,4.0,2.0,1.0,3.0,10.0,1.0
+510,coney island - sheepshead bay,Manhattan,2012,,1.0,,,,,
+511,fresh meadows,Queens,2012,,9.0,4.0,,1.0,,
+512,kingsbridge - riverdale,Manhattan,2016,,1.0,,,,,
+513,lower manhattan,Manhattan,2010,,10.0,7.0,,1.0,,
+514,port richmond,Staten Island,2020,,3.0,2.0,5.0,,10.0,13.0
+515,south beach - tottenville,Staten Island,2021,,1.0,277.0,,,6.0,2.0
+516,sunset park,Brooklyn,2020,,16.0,8.0,1.0,2.0,5.0,5.0
+517,willowbrook,Staten Island,2013,,8.0,4.0,5.0,,,
+518,willowbrook,Staten Island,2017,,3.0,6.0,5.0,1.0,5.0,2.0
+519,high bridge - morrisania,Manhattan,2011,,,1.0,,,,
+520,west queens,Bronx,2021,,,1.0,,,,
+521,downtown - heights - slope,Manhattan,2018,,,,1.0,,,
