@@ -63,11 +63,7 @@ dioxide, and ozone. The data is categorized by UHF42 neighborhood for years 2009
 2018. 
 
 
-Row: 420 
-
-
-Columns: 6 
-
+There are 420 rows and 6 columns.
 
 
 
@@ -88,11 +84,8 @@ Columns: 6
 Contains data about the average concentration of benzene in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.
 
 
-Rows: 84 
+There are 84 rows and 3 columns.
 
-
-
-Columns: 3 
 
 
 
@@ -112,10 +105,7 @@ Columns: 3
 Contains data about the average concentration of formal dehyde in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.
 
 
-Rows: 84 rows 
-
-
-Columns: 3 
+There are 84 rows and 3 columns.
 
 
 
@@ -136,10 +126,8 @@ Dataset:[boiler_emissions](https://data.cityofnewyork.us/Environment/Air-Quality
 Contains data about the average boiler emissions of toxins nitrogen dioxide,sulfurdioxide and ine particulate matter.The data is categorized by UHF42 neighborhood for years 2013 and 2015.
 
 
-Rows: 84 rows 
 
-
-Columns: 5  
+There are 84 rows and 6 columns.
 
 
 
@@ -203,7 +191,10 @@ Dataset:[o3_pm2_attributable_hospital_visits](https://data.cityofnewyork.us/Envi
 Contains data about the number of emergency department visits and hospitalizations for
 asthma attributed to ?ine particulate matter and ozone toxins. The data is categorized by
 UHF 42 neighborhood. The data is categorized in the following time periods: 2005-2007,
-2009 - 2011, 2012-2014, 2015-2017. There are 168 rows and 9 columns.
+2009 - 2011, 2012-2014, 2015-2017. 
+
+
+There are 168 rows and 9 columns.
 
 
 
@@ -376,10 +367,9 @@ made everything lowercase, and changed the datatypes to the appropriate datatype
 each column.
 
 
-Rows:521
 
+There are 521 rows and 8 columns.
 
-Columns:8
 
 
 
