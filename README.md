@@ -337,7 +337,7 @@ Size:3,601KB
 |Longitude|FLOAT|Longitude of complaint location|
 |Latitude |FLOAT|Latitude of complaint location|
 
-**Dataset: Adultswith Asthma in the Past 12 Months.csv** 
+Dataset: [Adultswith Asthma in the Past 12 Months.csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
 
 Description: Prevelance of adults with asthma in the past 12 months. Listed by NYC UHF
 Neighborhoods and year. I removed metadata, removed commas, changed column names,
@@ -348,10 +348,6 @@ each column.
 Rows:521
 
 Columns:8
-
-Size:140kb
-
-Source:NYCEnvironment&HealthDataPortal [https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx? theme_code=2,3&subtopic_id=11](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
 
 
 
@@ -430,6 +426,8 @@ commas, changed column names, made everything lowercase, and changed the datatyp
 the appropriate datatypes for each column.
 
 Rows:577
+
+
 Columns:7
 
 
@@ -451,6 +449,7 @@ Dataset: [Asthma Hospitalizations(Adults).csv](https://a816dohbesp.nyc.gov/Indic
 Description: Number of adults hospitalized for asthma. Listed by NYC UHF Neighborhoods
 and year. I removed metadata, removed commas, changed column names, made everything
 lowercase, and changed the datatypes to the appropriate datatypes for each column.
+
 
 Rows:530
 
@@ -480,6 +479,7 @@ Description: Number of children 5-17 years old hospitalized for asthma. Listed b
 Neighborhoods and year. I removed metadata, removed commas, changed column names,
 made everything lowercase, and changed the datatypes to the appropriate datatypes for
 each column.
+
 Rows:577
 Columns:7
 
