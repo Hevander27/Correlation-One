@@ -248,7 +248,7 @@ There are 84 rows and 6 columns.
 This is data related to adults smoking and being in smoking environments. Additional meta data was dropped.
 Data was converted to numeric values to allow for appropriate usage.
 
-
+There are 120 rows and 10 columns. 
 
 
 |Field|Type |Description|
