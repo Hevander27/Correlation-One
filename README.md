@@ -384,8 +384,15 @@ Source:NYCEnvironment&HealthDataPortal [https://a816dohbesp.nyc.gov/IndicatorPub
 |**geography\_id** |category|Unique geographical ID for every geographical location|
 |**children\_5\_14\_estimated \_annual\_rate\_per\_1000**|float|Rate of children age 5-14 with asthma (per 1000)|
 |**children\_5\_14\_number**|float|Number of children age 5-14 with asthma|
-||||
-**Dataset: Asthma Emergency Department Visits(Adults).csv** Description:Asthmarelatedemergencydepartmentvisitsforadults.ListedbyNYCUHF Neighborhoodsandyear.Iremovedmetadata,removedcommas,changedcolumnnames, madeeverythinglowercase,andchangedthedatatypestotheappropriatedatatypesfor eachcolumn.
+
+
+**Dataset: Asthma Emergency Department Visits(Adults).csv** 
+
+Description: Asthma related emergency department visits for adults. Listed by NYC UHF
+Neighborhoods and year. I removed metadata, removed commas, changed column names,
+made everything lowercase, and changed the datatypes to the appropriate datatypes for
+each column.
+
 
 Rows:530
 
@@ -408,7 +415,12 @@ Source:NYCEnvironment&HealthDataPortal [https://a816dohbesp.nyc.gov/IndicatorPub
 |**ed\_annual\_adult\_numbe r**|float|Number of adults that visited the emergency department for asthma|
 |**year** |category|The year of that data point|
 
-**Dataset: Asthma Emergency Department Visits(Children 5 to 17 YrsOld) .csv** Description:Description:Asthmarelatedemergencydepartmentvisitsforchildren5-17 yearsold.ListedbyNYCUHFNeighborhoodsandyear.Iremovedmetadata,removed commas,changedcolumnnames,madeeverythinglowercase,andchangedthedatatypesto theappropriatedatatypesforeachcolumn.
+**Dataset: Asthma Emergency Department Visits(Children 5 to 17 YrsOld) .csv**
+
+Description: Asthma related emergency department visits for children 5-17
+years old. Listed by NYC UHF Neighborhoods and year. I removed metadata, removed
+commas, changed column names, made everything lowercase, and changed the datatypes to
+the appropriate datatypes for each column.
 
 Rows:577
 
@@ -430,7 +442,14 @@ Source:NYCEnvironment&HealthDataPortal [https://a816dohbesp.nyc.gov/IndicatorPub
 |**ed\_5\_17\_number**|float|Number of children 5-17 years old that visited the emergency department for asthma|
 |**year** |category|The year of that data point|
 
-**Dataset: Asthma Hospitalizations(Adults).csv** Description:Numberofadultshospitalizedforasthma.ListedbyNYCUHFNeighborhoods andyear.Iremovedmetadata,removedcommas,changedcolumnnames,madeeverything lowercase,andchangedthedatatypestotheappropriatedatatypesforeachcolumn. Rows:530
+**Dataset: Asthma Hospitalizations(Adults).csv** 
+
+
+Description: Number of adults hospitalized for asthma. Listed by NYC UHF Neighborhoods
+and year. I removed metadata, removed commas, changed column names, made everything
+lowercase, and changed the datatypes to the appropriate datatypes for each column.
+
+Rows:530
 
 Columns:8
 
@@ -451,7 +470,14 @@ Source:NYCEnvironment&HealthDataPortal [https://a816dohbesp.nyc.gov/IndicatorPub
 |**asthma\_hosp\_adult\_nu mber**|float|Number of adults that were hospitalized for asthma|
 |**year** |category|The year of that data point|
 
-Dataset:AsthmaHospitalizations(Children5to17YrsOld).csv Description:Numberofchildren5-17yearsoldhospitalizedforasthma.ListedbyNYCUHF Neighborhoodsandyear.Iremovedmetadata,removedcommas,changedcolumnnames, madeeverythinglowercase,andchangedthedatatypestotheappropriatedatatypesfor eachcolumn.
+Dataset:AsthmaHospitalizations(Children5to17YrsOld).csv 
+
+
+Description: Number of children 5-17 years old hospitalized for asthma. Listed by NYC UHF
+Neighborhoods and year. I removed metadata, removed commas, changed column names,
+made everything lowercase, and changed the datatypes to the appropriate datatypes for
+each column.
+
 
 Rows:577
 
@@ -460,7 +486,6 @@ Columns:7
 Size:71kb
 
 Source:NYCEnvironment&HealthDataPortal [https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx? theme_code=2,3&subtopic_id=11](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
-
 
 
 |**Field** |**Type**|**Description**|
@@ -473,13 +498,21 @@ Source:NYCEnvironment&HealthDataPortal [https://a816dohbesp.nyc.gov/IndicatorPub
 |**asthma\_hosp\_5\_17\_num ber**|float|Number of children 5-17 years old hospitalized for asthma|
 |**year** |category|The year of that data point|
 
-MedianHouseholdIncomeByRacebyTract,2012-2016 Containsdataabouttheaveragehouseholdincomeorganizedbyraceindifferentstateand
 
-regionallevelsthedataisorganizebyyearfrom2012to2016
+MedianHouseholdIncomeByRacebyTract,2012-2016
 
-Having over 30 ields I will be organizing and cleaning up including below what seems morerelevanttoourresearch
 
-*Rounded number of rows:*72730 *& speci ic number of columns: 33.* Size:72728records [Source: https://racialequity.maps.arcgis.com/apps/mapviewer/index.html? webmap=7ea542ec16364bd58c7d073443a35967](https://racialequity.maps.arcgis.com/apps/mapviewer/index.html?webmap=7ea542ec16364bd58c7d073443a35967)
+Contains data about the average household income organized by race in different state and
+regional levels the data is organize by year from 2012 to 2016
+Having over 30 ?ields I will be organizing and cleaning up including below what seems
+more relevant to our research
+
+
+
+*Rounded number of rows:*72730 *
+*specic number of columns: 33.* 
+Size:72728
+records [Source: https://racialequity.maps.arcgis.com/apps/mapviewer/index.html? webmap=7ea542ec16364bd58c7d073443a35967](https://racialequity.maps.arcgis.com/apps/mapviewer/index.html?webmap=7ea542ec16364bd58c7d073443a35967)
 
 
 
