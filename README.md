@@ -422,7 +422,7 @@ Columns:8
 
 
 
-Dataset: Asthma Emergency Department Visits(Children 5 to 17 YrsOld).csv(https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
+Dataset: [Asthma Emergency Department Visits(Children 5 to 17 YrsOld).csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
 
 Description: Asthma related emergency department visits for children 5-17
 years old. Listed by NYC UHF Neighborhoods and year. I removed metadata, removed
@@ -473,7 +473,7 @@ Columns:8
 
 
 
-Dataset:AsthmaHospitalizations(Children5to17YrsOld).csv(https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx? theme_code=2,3&subtopic_id=11)
+Dataset:[AsthmaHospitalizations(Children5to17YrsOld).csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx? theme_code=2,3&subtopic_id=11)
 
 
 Description: Number of children 5-17 years old hospitalized for asthma. Listed by NYC UHF
