@@ -12,7 +12,7 @@ Created by: [Hevander Da Costa](https://www.credential.net/e78a940f-58d6-4259-a7
 ## Purpose
 
 
-This project was the capstone of the Correlation One Data Science for All program.
+This project was the capstone of the [Correlation One](https://www.correlation-one.com/en/data-science-for-all) Data Science for All program.
 The purpose of this project was to analyze New York City data on asthma contributors and Social Determinants of Health to uncover what potentially drives asthma disparity in this city. Although there are a wide variety of potential asthma contributors, for this project focused on indoor and outdoor air quality because they are widely believed to be the main contributors. 
 
 
