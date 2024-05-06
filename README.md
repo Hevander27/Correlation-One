@@ -22,6 +22,8 @@ The purpose of this project was to analyze New York City data on asthma contribu
 ## Analysis
 
 
+
+
 ## Report and Presentation
 **Full Report:** [What Contributes to Asthma Disparity 
 in New York City](https://docs.google.com/document/d/1PZRT_0nhVFE29YuoBeKd6435zLIpL_2vErgc3j9Iu_4/edit)
