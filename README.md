@@ -45,7 +45,6 @@ There are 330 rows and 6 columns.
 
 
 
-
 |**Field**|**Type** |**Description**|
 | - | - | - |
 |**name\_of\_column**|The python consumable format|Brief description of the field. If the field follows a specific format (e.g. a specific date format) include that here too.|
