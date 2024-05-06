@@ -33,7 +33,7 @@ in New York City](https://docs.google.com/document/d/1PZRT_0nhVFE29YuoBeKd6435zL
 
 ## Data Table Schema
 
-`Dataset:`[airq_34_all](https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r)
+`Dataset:` [airq_34_all](https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r)
 
 
 Contains data about the average amounts of toxins: Fine particulate matter, nitrogen
