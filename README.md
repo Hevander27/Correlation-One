@@ -298,15 +298,11 @@ There are 51 rows and 231 columns.
 
 
 
-Detaileddescriptionofeachofthe ields.
-NYC_SDOH_dictionary
-
-NYC_SDOH_dictionary
-Detailed description of each of the ?ields.
-236 rows & 4 columns. Size: 29.5 KB Source: Agency of Healthcare Research and Quality
 
 
+`Dataset:` [NYC_SDOH_dictionary](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html)
 There are 236 rows and 4 columns. 
+
 
 
 
