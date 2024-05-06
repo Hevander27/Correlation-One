@@ -1,7 +1,16 @@
-## Asthma Disparities in New York City
+## *Asthma Disparities in New York City*
+
+Created by: Hevander Da Costa
 
 
-**Purpose:**
+
+1. [Purpose](#Purpose)
+2. [Project](#Project)
+3. [Analysis and Presentation](#Analysis_Presentation)
+4. [Data Table Schema](#Data_Table_Schema)
+
+
+## Purpose
 
 
 This project was the capstone of the Correlation One Data Science for All program.
@@ -9,14 +18,17 @@ The purpose of this project was to analyze New York City data on asthma contribu
 
 
 ![Team45_projectBoard](https://github.com/Hevander27/Correlation-One/assets/45948489/f3a0638b-edc8-41c6-914c-b7658fb140c5)
+
+
+
+## Analysis and Presentation
 **Full Report:** [What Contributes to Asthma Disparity 
 in New York City](https://docs.google.com/document/d/1PZRT_0nhVFE29YuoBeKd6435zLIpL_2vErgc3j9Iu_4/edit)
-
 **Power Point:** [Team 45 Presentation](https://docs.google.com/presentation/d/1TyA2HsA6o0-gvV_tjdVr-jMRYL1DyoXaqumnDSX84uw/edit#slide=id.ge6b119a546_0_24)
 
 
 
-## Data Table Schema Team 45
+## Data Table Schema
 
 `Dataset:airq\_34\_all`
 
@@ -29,7 +41,7 @@ dioxide, and ozone. The data is categorized by UHF34 neighborhood for years 2009
 There are 330 rows and 6 columns.
 
 
-https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
+
 
 
 
