@@ -63,7 +63,10 @@ dioxide, and ozone. The data is categorized by UHF42 neighborhood for years 2009
 2018. 
 
 
-There are 420 rows and 6 columns.
+Row: 420 
+
+
+Columns: 6 
 
 
 
@@ -79,12 +82,16 @@ There are 420 rows and 6 columns.
 |**mean\_no**|Float|Average yearly amount of nitrogen dioxide|
 |**Ozone mean (ppb)**|Float|Average yearly amount of ozone|
 
+
 [Dataset:benzene_42](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 Contains data about the average concentration of benzene in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.
 
 
 Rows: 84 
+
+
+
 Columns: 3 
 
 
@@ -97,6 +104,7 @@ Columns: 3
 |**year**|STRING|Year|
 |**geo\_place\_name**|STRING|UHF 34 Neighborhood name|
 |**mean\_benzene**|Float|Average yearly concentration of benzene in the air|
+
 
 [Dataset:formaldehyde_42](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
@@ -121,7 +129,9 @@ Columns: 3
 |**geo\_place\_name**|STRING|UHF 34 Neighborhood name|
 |**mean\_formaldehyde**|Float|Average yearly concentration of benzene in the air|
 
-[Dataset:boiler_emissions](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
+
+
+Dataset:[boiler_emissions](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 Contains data about the average boiler emissions of toxins nitrogen dioxide,sulfurdioxide and ine particulate matter.The data is categorized by UHF42 neighborhood for years 2013 and 2015.
 
@@ -143,6 +153,7 @@ Columns: 5
 |**so2\_num\_per\_km2**|Float|Number of emissions per kilometer squared|
 |**pm2\_num\_per\_km2**|Float|Number of emissions per kilometer squared|
 
+
 Dataset:[sulfur_34](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 
@@ -156,13 +167,13 @@ There are 272 rows and 3 columns.
 
 
 
-
 |**Field**|**Type** |**Description**|
 | - | - | - |
 |**name\_of\_column**|The python consumable format|Brief description of the field. If the field follows a specific format (e.g. a specific date format) include that here too.|
 |**year**|STRING|Year|
 |**geo\_place\_name**|STRING|UHF 34 Neighborhood name|
 |**mean\_so2**|Float|Average yearly amount of sulfur|
+
 
 Dataset:[sulfur_42](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
