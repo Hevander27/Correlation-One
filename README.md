@@ -21,8 +21,10 @@ The purpose of this project was to analyze New York City data on asthma contribu
 
 ## Analysis
 
+[Regression Analyis](https://github.com/Hevander27/Correlation-One/blob/master/RegressionAnalysis/asthma_regression_draft3.ipynb)
 
 
+[Chi-Squared Analysis]
 
 ## Report and Presentation
 **Full Report:** [What Contributes to Asthma Disparity 
