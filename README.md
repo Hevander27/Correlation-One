@@ -340,7 +340,7 @@ There are 106 rows and 6 columns.
 
 
 
-`Dataset:` [Indoor_air_quality_all](https://data.cityofnewyork.us/Health/DOHMH-Indoor-Environmental-Complaints/9jgj- bmct/data)
+`Dataset:` [Indoor_air_quality_all](https://data.cityofnewyork.us/Health/DOHMH-Indoor-Environmental-Complaints/9jgj-bmct/data)
 
 
 Dataset contains resident reported complaints on indoor air quality.
