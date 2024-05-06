@@ -33,7 +33,7 @@ in New York City](https://docs.google.com/document/d/1PZRT_0nhVFE29YuoBeKd6435zL
 
 
 
-**Data Summary:** [Data](https://docs.google.com/document/d/1AE43_v6Pon61iH9l7ZtcnvhBixD4mrzPYLgs5SpaHA0/edit)
+**Data Summary:** [Data](https://docs.google.com/document/d/1AE43_v6Pon61iH9l7ZtcnvhBixD4mrzPYLgs5SpaHA0/edit)  [Source Links](https://docs.google.com/document/d/1GvCFT-f0oSY9zRonGKBwpKFY9dzG2Xj9kDgy3UkXyfQ/edit)
 
 
 
