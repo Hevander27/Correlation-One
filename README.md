@@ -57,7 +57,7 @@ There are 330 rows and 6 columns.
 |**mean\_no**|Float|Average yearly amount of nitrogen dioxide|
 |**Ozone mean (ppb)**|Float|Average yearly amount of ozone|
 
-[Dataset:airq_42_all](https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r)
+`Dataset:` [airq_42_all](https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r)
 
 
 Contains data about the average amounts of toxins: ?ine particulate matter, nitrogen
@@ -81,7 +81,7 @@ There are 420 rows and 6 columns.
 |**Ozone mean (ppb)**|Float|Average yearly amount of ozone|
 
 
-[Dataset:benzene_42](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
+`Dataset:` [benzene_42](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 
 Contains data about the average concentration of benzene in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.
@@ -102,7 +102,7 @@ There are 84 rows and 3 columns.
 |**mean\_benzene**|Float|Average yearly concentration of benzene in the air|
 
 
-[Dataset:formaldehyde_42](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
+`Dataset:` [formaldehyde_42](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 
 Contains data about the average concentration of formal dehyde in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.
@@ -124,7 +124,7 @@ There are 84 rows and 3 columns.
 
 
 
-Dataset:[boiler_emissions](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
+`Dataset:` [boiler_emissions](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 
 Contains data about the average boiler emissions of toxins nitrogen dioxide,sulfurdioxide and ine particulate matter.The data is categorized by UHF42 neighborhood for years 2013 and 2015.
@@ -146,7 +146,7 @@ There are 84 rows and 6 columns.
 |**pm2\_num\_per\_km2**|Float|Number of emissions per kilometer squared|
 
 
-Dataset:[sulfur_34](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
+`Dataset:` [sulfur_34](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 
 Contains data about the average amount of sulfurdioxide in the air.The data is categorized by UHF34 neighborhood for years 2008-2015.
@@ -167,7 +167,7 @@ There are 272 rows and 3 columns.
 |**mean\_so2**|Float|Average yearly amount of sulfur|
 
 
-Dataset:[sulfur_42](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
+`Dataset:` [sulfur_42](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 
 Contains data about the average amount of sulfurdioxide in the air.
@@ -188,7 +188,7 @@ There are 336 rows and 3 columns.
 |**geo\_place\_name**|STRING|UHF 42 Neighborhood name|
 |**mean\_so2**|Float|Average yearly amount of sulfur|
 
-Dataset:[o3_pm2_attributable_hospital_visits](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
+`Dataset:` [o3_pm2_attributable_hospital_visits](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 
 
@@ -217,7 +217,7 @@ There are 168 rows and 9 columns.
 |**child\_o3\_asthma\_ed\_ visits\_per\_100k** |Float|Rate of emergency department visits for asthma in children attributed to ozone out of 100,001|
 
 
-Dataset:[traffic_merged](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
+`Dataset:` [traffic_merged](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 
 
@@ -242,7 +242,7 @@ There are 84 rows and 6 columns.
 
 
 
-Dataset: [adult_smoking_joined_UHF34_CLEAN](https://a816-dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=3)
+`Dataset:` [adult_smoking_joined_UHF34_CLEAN](https://a816-dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=3)
 
 
 This is data related to adults smoking and being in smoking environments. Additional meta data was dropped.
@@ -264,7 +264,7 @@ Data was converted to numeric values to allow for appropriate usage.
 |secondhand\_smoke\_wor k\_adult\_percent|FLOAT|Percent of adults reporting secondhand smoke at work|
 
 
-Dataset:[NYC_SDOH](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html)
+`Dataset:` [NYC_SDOH](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html)
 
 
 The social determinants of health (SDH) are the non-medical factors that in?luence health
@@ -310,7 +310,7 @@ There are 236 rows and 4 columns.
 
 
 
-Dataset:[Asthma_ED_Visits](https://a816-dohbesp.nyc.gov/IndicatorPublic/VisualizationData.aspx?id=2380,4466a0,11,Summarize)
+`Dataset:` [Asthma_ED_Visits](https://a816-dohbesp.nyc.gov/IndicatorPublic/VisualizationData.aspx?id=2380,4466a0,11,Summarize)
 
 
 Asthma emergency room visits for NYC residents. Data cleaned based on “lowest common
@@ -338,7 +338,7 @@ There are 106 rows and 6 columns.
 
 
 
-Dataset:[Indoor_air_quality_all](https://data.cityofnewyork.us/Health/DOHMH-Indoor-Environmental-Complaints/9jgj- bmct/data)
+`Dataset:` [Indoor_air_quality_all](https://data.cityofnewyork.us/Health/DOHMH-Indoor-Environmental-Complaints/9jgj- bmct/data)
 
 
 Dataset contains resident reported complaints on indoor air quality.
@@ -367,7 +367,7 @@ There are 65050 rows and 7 columns.
 |Longitude|FLOAT|Longitude of complaint location|
 |Latitude |FLOAT|Latitude of complaint location|
 
-Dataset: [Adultswith Asthma in the Past 12 Months.csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
+`Dataset:` [Adultswith Asthma in the Past 12 Months.csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
 
 Description: Prevelance of adults with asthma in the past 12 months. Listed by NYC UHF
 Neighborhoods and year. I removed metadata, removed commas, changed column names,
@@ -394,7 +394,7 @@ There are 521 rows and 8 columns.
 
 
 
-Dataset:[Public School Children (5-14 YrsOld) with Asthma.csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
+`Dataset:` [Public School Children (5-14 YrsOld) with Asthma.csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
 
 
 Description: Prevelance of public school children from ages 5-14 with asthma. Listed by
@@ -420,7 +420,7 @@ There are 193 rows and 7 columns.
 |**children\_5\_14\_number**|float|Number of children age 5-14 with asthma|
 
 
-Dataset:[Asthma Emergency Department Visits(Adults).csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
+`Dataset:` [Asthma Emergency Department Visits(Adults).csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
 
 Description: Asthma related emergency department visits for adults. Listed by NYC UHF
 Neighborhoods and year. I removed metadata, removed commas, changed column names,
@@ -448,7 +448,7 @@ There are 530 rows and 8 columns.
 
 
 
-Dataset: [Asthma Emergency Department Visits(Children 5 to 17 YrsOld).csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
+`Dataset:` [Asthma Emergency Department Visits(Children 5 to 17 YrsOld).csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
 
 Description: Asthma related emergency department visits for children 5-17
 years old. Listed by NYC UHF Neighborhoods and year. I removed metadata, removed
@@ -473,7 +473,7 @@ There are 577 rows and 7 columns.
 |**ed\_5\_17\_number**|float|Number of children 5-17 years old that visited the emergency department for asthma|
 |**year** |category|The year of that data point|
 
-Dataset: [Asthma Hospitalizations(Adults).csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
+`Dataset:` [Asthma Hospitalizations(Adults).csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
 
 
 Description: Number of adults hospitalized for asthma. Listed by NYC UHF Neighborhoods
@@ -500,7 +500,7 @@ There are 530 rows and 8 columns.
 
 
 
-Dataset:[AsthmaHospitalizations(Children5to17YrsOld).csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
+`Dataset:` [AsthmaHospitalizations(Children5to17YrsOld).csv](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
 
 
 Description: Number of children 5-17 years old hospitalized for asthma. Listed by NYC UHF
@@ -526,7 +526,7 @@ There are 577 rows and 7 columns.
 |**year** |category|The year of that data point|
 
 
-Dataset: [MedianHouseholdIncomeByRacebyTract,2012-2016](https://racialequity.maps.arcgis.com/apps/mapviewer/index.html?webmap=7ea542ec16364bd58c7d073443a35967)
+`Dataset:` [MedianHouseholdIncomeByRacebyTract,2012-2016](https://racialequity.maps.arcgis.com/apps/mapviewer/index.html?webmap=7ea542ec16364bd58c7d073443a35967)
 
 
 Contains data about the average household income organized by race in different state and
