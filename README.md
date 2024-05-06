@@ -3,7 +3,6 @@
 Created by: Hevander Da Costa
 
 
-
 1. [Purpose](#Purpose)
 2. [Project](#Project)
 3. [Analysis and Presentation](#Analysis_Presentation)
@@ -24,6 +23,8 @@ The purpose of this project was to analyze New York City data on asthma contribu
 ## Analysis and Presentation
 **Full Report:** [What Contributes to Asthma Disparity 
 in New York City](https://docs.google.com/document/d/1PZRT_0nhVFE29YuoBeKd6435zLIpL_2vErgc3j9Iu_4/edit)
+
+
 **Power Point:** [Team 45 Presentation](https://docs.google.com/presentation/d/1TyA2HsA6o0-gvV_tjdVr-jMRYL1DyoXaqumnDSX84uw/edit#slide=id.ge6b119a546_0_24)
 
 
@@ -55,7 +56,7 @@ There are 330 rows and 6 columns.
 |**mean\_no**|Float|Average yearly amount of nitrogen dioxide|
 |**Ozone mean (ppb)**|Float|Average yearly amount of ozone|
 
-`Dataset:airq\_42\_all`
+[Dataset:airq_42_all](https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r)
 
 
 Contains data about the average amounts of toxins: ?ine particulate matter, nitrogen
@@ -66,7 +67,6 @@ dioxide, and ozone. The data is categorized by UHF42 neighborhood for years 2009
 There are 420 rows and 6 columns.
 
 
-https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
 
 
 
@@ -80,7 +80,7 @@ https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r
 |**mean\_no**|Float|Average yearly amount of nitrogen dioxide|
 |**Ozone mean (ppb)**|Float|Average yearly amount of ozone|
 
-`Dataset:benzene\_42`
+[Dataset:benzene_42](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 Contains data about the average concentration of benzene in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.
 
@@ -88,7 +88,6 @@ Contains data about the average concentration of benzene in the air.The data is 
 There are 84 rows and 3 columns. 
 
 
-https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 
 
@@ -99,7 +98,7 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 |**geo\_place\_name**|STRING|UHF 34 Neighborhood name|
 |**mean\_benzene**|Float|Average yearly concentration of benzene in the air|
 
-`Dataset:formaldehyde\_42`
+[Dataset:formaldehyde_42](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 
 Contains data about the average concentration of formal dehyde in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.
@@ -108,7 +107,7 @@ Contains data about the average concentration of formal dehyde in the air.The da
 There are 84 rows and 3 columns.
 
 
-https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
+
 
 
 
@@ -119,15 +118,13 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 |**geo\_place\_name**|STRING|UHF 34 Neighborhood name|
 |**mean\_formaldehyde**|Float|Average yearly concentration of benzene in the air|
 
-`Dataset:boiler\_emissions`
+[Dataset:boiler_emissions](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 Contains data about the average boiler emissions of toxins nitrogen dioxide,sulfurdioxide and ine particulate matter.The data is categorized by UHF42 neighborhood for years 2013 and 2015.
 
 
 There are 84 rows and 5 columns. 
 
-
-https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 
 
@@ -140,7 +137,7 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 |**so2\_num\_per\_km2**|Float|Number of emissions per kilometer squared|
 |**pm2\_num\_per\_km2**|Float|Number of emissions per kilometer squared|
 
-`Dataset:sulfur\_34` 
+[Dataset:sulfur_34](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 
 Contains data about the average amount of sulfurdioxide in the air.The data is categorized by UHF34 neighborhood for years 2008-2015.
@@ -150,7 +147,7 @@ There are 272 rows and 3 columns.
 
 
 
-https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
+
 
 
 
@@ -161,14 +158,14 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 |**geo\_place\_name**|STRING|UHF 34 Neighborhood name|
 |**mean\_so2**|Float|Average yearly amount of sulfur|
 
-Dataset:sulfur\_42
+[Dataset:sulfur_42](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 
 Contains data about the average amount of sulfurdioxide in the air.
 The data is categorized by UHF42 neighborhood for years 2008 and 2015. There are 336 rows and 3 columns. 
 
 
-https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
+
 
 
 
@@ -179,7 +176,7 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 |**geo\_place\_name**|STRING|UHF 42 Neighborhood name|
 |**mean\_so2**|Float|Average yearly amount of sulfur|
 
-Dataset:o3\_pm2\_attributable\_hospital\_visits
+[Dataset:o3_pm2_attributable_hospital_visits](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
 
 
@@ -188,9 +185,6 @@ asthma attributed to ?ine particulate matter and ozone toxins. The data is categ
 UHF 42 neighborhood. The data is categorized in the following time periods: 2005-2007,
 2009 - 2011, 2012-2014, 2015-2017. There are 168 rows and 9 columns.
 
-
-
-https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
 
 
@@ -207,7 +201,9 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 |**adult\_o3\_asthma\_ed\_ visits\_per\_100k**|Float|Rate of emergency department visits for asthma in adults attributed to ozone out of 100,000|
 |**child\_o3\_asthma\_ed\_ visits\_per\_100k** |Float|Rate of emergency department visits for asthma in children attributed to ozone out of 100,001|
 
-Dataset:traf ic\_merged ContainsdataaboutthenumberofmilesdrivenbycarsandtrucksinUHF42 neighborhoods.Thedatacoversyears2005and2016.Thereare84rowsand5columns.
+
+Dataset:traf ic\_merged 
+ContainsdataaboutthenumberofmilesdrivenbycarsandtrucksinUHF42 neighborhoods.Thedatacoversyears2005and2016.Thereare84rowsand5columns.
 
 https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 
@@ -222,14 +218,13 @@ https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu
 |**trucks\_million\_miles**|Float|Number of miles traveled by trucks in millions|
 |**total\_million\_miles**|Float|Sum of miles traveled by cars and trucks in millions|
 
-**Dataset: adult\_smoking\_joined\_UHF34\_CLEAN**
+Dataset: [adult_smoking_joined_UHF34_CLEAN](https://a816-dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=3)
 
 
 This is data related to adults smoking and being in smoking environments. Additional meta data was dropped.
 Data was converted to numeric values to allow for appropriate usage.
 
 
-[https://a816-dohbesp.nyc.gov/ IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=3](https://a816-dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=3)
 
 |Field|Type |Description|
 | - | - | - |
@@ -244,7 +239,7 @@ Data was converted to numeric values to allow for appropriate usage.
 |secondhand\_smoke\_wor k\_adult\_percent|FLOAT|Percent of adults reporting secondhand smoke at work|
 
 
-Dataset:NYC\_SDOH
+[Dataset:NYC_SDOH](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html)
 
 
 The social determinants of health (SDH) are the non-medical factors that in?luence health
@@ -260,8 +255,7 @@ County - Manhattan, Queens County - Queens, Richmond County - Staten Island.
 
 
 
-*51 rows & 231 columns.* Size:69.7KBSource: [AgencyofHealthcareResearchandQuality](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html)
-
+*51 rows & 231 columns.*
 
 
 |Field|Type |Description|
@@ -278,9 +272,9 @@ County - Manhattan, Queens County - Queens, Richmond County - Staten Island.
 
 Detaileddescriptionofeachofthe ields.
 
-*236 rows & 4 columns.* Size:29.5KBSource: [AgencyofHealthcareResearchandQuality](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html)
+*236 rows & 4 columns.* 
 
-**Asthma\_ED\_Visits**
+[Asthma_ED_Visits](https://a816-dohbesp.nyc.gov/IndicatorPublic/VisualizationData.aspx?id=2380,4466a0,11,Summarize)
 
 
 Asthma emergency room visits for NYC residents. Data cleaned based on “lowest common
@@ -293,7 +287,7 @@ year. Asthma ED Visit data was only taken/available for the years 2009-2016 with
 available per county for the year 2015.
 
 
-*106 rows & 6 columns.* Size:approximatesizeasappearsonyour ileexplorer.Source: [NYC Environment&HealthDataPortal](https://a816-dohbesp.nyc.gov/IndicatorPublic/VisualizationData.aspx?id=2380,4466a0,11,Summarize)
+*106 rows & 6 columns.* Size:approximatesizeasappearsonyour ileexplorer.Source: [NYC Environment&HealthDataPortal]
 
 
 
@@ -306,7 +300,9 @@ available per county for the year 2015.
 |**AGE\_ADJUSTED\_RA TE**|FLOAT|Number of ED visits per country adjusted for population older than 18 years (adults), per 10,000 residents.|
 |**ESTIMATED\_ANNUA L\_RATE**|FLOAT|Number of ED visits per country adjusted for population older than 18 years, per 10,000 residents for that year.|
 
-**Dataset: Indoor\_air\_quality\_all** 
+
+
+[Dataset: Indoor_air_quality_all](https://data.cityofnewyork.us/Health/DOHMH-Indoor-Environmental-Complaints/9jgj- bmct/data)
 
 
 Dataset contains resident reported complaints on indoor air quality.
@@ -320,7 +316,6 @@ to identify location.
 
 Size:3,601KB
 
-Source: https://data.cityofnewyork.us/Health/DOHMH-Indoor-Environmental-Complaints/9jgj- bmct/data
 
 
 
