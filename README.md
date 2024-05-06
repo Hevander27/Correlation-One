@@ -81,6 +81,7 @@ There are 420 rows and 6 columns.
 
 [Dataset:benzene_42](https://data.cityofnewyork.us/Environment/Air-Quality/fyf4-hrcu)
 
+
 Contains data about the average concentration of benzene in the air.The data is categorized by UHF42 neighborhood for years 2005 and 2011.
 
 
@@ -235,11 +236,13 @@ There are 84 rows and 6 columns.
 |**trucks\_million\_miles**|Float|Number of miles traveled by trucks in millions|
 |**total\_million\_miles**|Float|Sum of miles traveled by cars and trucks in millions|
 
+
+
+
 Dataset: [adult_smoking_joined_UHF34_CLEAN](https://a816-dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=3)
-
-
 This is data related to adults smoking and being in smoking environments. Additional meta data was dropped.
 Data was converted to numeric values to allow for appropriate usage.
+
 
 
 
