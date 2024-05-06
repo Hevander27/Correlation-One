@@ -1,6 +1,6 @@
 ## *Asthma Disparities in New York City*
 
-Created by: Hevander Da Costa
+Created by: [Hevander Da Costa](https://www.credential.net/e78a940f-58d6-4259-a748-a0dbf85a9fc5#gs.8e8rni)
 
 
 1. [Purpose](#Purpose)
