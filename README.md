@@ -239,7 +239,7 @@ Data was converted to numeric values to allow for appropriate usage.
 |secondhand\_smoke\_wor k\_adult\_percent|FLOAT|Percent of adults reporting secondhand smoke at work|
 
 
-[Dataset:NYC_SDOH](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html)
+Dataset:[NYC_SDOH](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html)
 
 
 The social determinants of health (SDH) are the non-medical factors that in?luence health
@@ -274,7 +274,7 @@ Detaileddescriptionofeachofthe ields.
 
 *236 rows & 4 columns.* 
 
-[Asthma_ED_Visits](https://a816-dohbesp.nyc.gov/IndicatorPublic/VisualizationData.aspx?id=2380,4466a0,11,Summarize)
+Dataset:[Asthma_ED_Visits](https://a816-dohbesp.nyc.gov/IndicatorPublic/VisualizationData.aspx?id=2380,4466a0,11,Summarize)
 
 
 Asthma emergency room visits for NYC residents. Data cleaned based on “lowest common
@@ -287,7 +287,7 @@ year. Asthma ED Visit data was only taken/available for the years 2009-2016 with
 available per county for the year 2015.
 
 
-*106 rows & 6 columns.* Size:approximatesizeasappearsonyour ileexplorer.Source: [NYC Environment&HealthDataPortal]
+*106 rows & 6 columns.* Size:approximatesizeasappearsonyour ileexplorer.Source: [NYC Environment&HealthDataPortal] (https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
 
 
 
@@ -302,7 +302,7 @@ available per county for the year 2015.
 
 
 
-[Dataset: Indoor_air_quality_all](https://data.cityofnewyork.us/Health/DOHMH-Indoor-Environmental-Complaints/9jgj- bmct/data)
+Dataset: [Indoor_air_quality_all](https://data.cityofnewyork.us/Health/DOHMH-Indoor-Environmental-Complaints/9jgj- bmct/data)
 
 
 Dataset contains resident reported complaints on indoor air quality.
@@ -492,7 +492,7 @@ Columns:7
 
 Size:71kb
 
-Source:NYCEnvironment&HealthDataPortal [https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx? theme_code=2,3&subtopic_id=11](https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx?theme_code=2,3&subtopic_id=11)
+Source:NYCEnvironment&HealthDataPortal [https://a816dohbesp.nyc.gov/IndicatorPublic/Subtopic.aspx? theme_code=2,3&subtopic_id=11]
 
 
 |**Field** |**Type**|**Description**|
